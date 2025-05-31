@@ -1,0 +1,501 @@
+ID_Cliente,Nome_Cliente,Email,Localizacao,Segmento
+CLI-0001,Bryan Freitas-Vieira,mauro08@example.net,Valbom,Pequena Empresa
+CLI-0002,Adriana da Cunha,franciscobarbosa@example.org,Freamunde,Empresarial
+CLI-0003,Madalena Domingues-Cruz,william89@example.org,Portimão,Empresarial
+CLI-0004,Frederico Lima,pilargomes@example.net,Barcelos,Consumidor
+CLI-0005,Rui Barros,cristiano80@example.com,Rio Tinto,Consumidor
+CLI-0006,Lara da Leal,magalhaesmario@example.org,Ponte de Sor,Pequena Empresa
+CLI-0007,Brian Vieira,alicepereira@example.com,Beja,Empresarial
+CLI-0008,Tiago Oliveira,esimoes@example.net,Mirandela,Pequena Empresa
+CLI-0009,Tatiana Castro,matiasnair@example.com,Marco de Canaveses,Consumidor
+CLI-0010,Nelson Correia,avieira@example.net,Albufeira,Consumidor
+CLI-0011,Edgar Almeida,machadoangelo@example.org,Vila do Conde,Pequena Empresa
+CLI-0012,Cláudio Paiva,ribeiroalicia@example.net,Vila Real de Santo António,Pequena Empresa
+CLI-0013,Salomé Oliveira,emiliaanjos@example.com,Barcelos,Empresarial
+CLI-0014,William Simões,luisa24@example.org,Coimbra,Pequena Empresa
+CLI-0015,Tomé Cruz,rfreitas@example.org,Câmara de Lobos,Pequena Empresa
+CLI-0016,Francisco Pires,bruno83@example.org,Fafe,Empresarial
+CLI-0017,Pilar Cunha,naiara72@example.com,Vila Nova de Gaia,Consumidor
+CLI-0018,Marco Jesus,rui94@example.net,Leiria,Premium
+CLI-0019,Renata-Mara Carvalho,kyara49@example.org,Quarteira,Pequena Empresa
+CLI-0020,Jorge Paiva,reismargarida@example.net,Guarda,Consumidor
+CLI-0021,Salomé Leal,fabiosilva@example.org,Santa Cruz,Empresarial
+CLI-0022,Marco da Sá,renato83@example.com,Santana,Pequena Empresa
+CLI-0023,Duarte Matos,oribeiro@example.net,Peso da Régua,Empresarial
+CLI-0024,Isabel Castro,marcio17@example.org,Guarda,Empresarial
+CLI-0025,Bruno Azevedo,goncalo17@example.net,Santo Tirso,Pequena Empresa
+CLI-0026,Vicente Carneiro,luciaazevedo@example.net,Ribeira Grande,Premium
+CLI-0027,André Alves,gil96@example.com,Oliveira de Azeméis,Empresarial
+CLI-0028,Carolina Costa,emanuel22@example.com,Mealhada,Pequena Empresa
+CLI-0029,Caetana Cunha,daniel37@example.com,Serpa,Pequena Empresa
+CLI-0030,Francisca Sá-Melo,vcruz@example.com,Sabugal,Pequena Empresa
+CLI-0031,Clara Neto,campospaulo@example.net,Ovar,Empresarial
+CLI-0032,Afonso Matos,sebastiaotorres@example.net,Santa Cruz,Pequena Empresa
+CLI-0033,Miriam Jesus,icosta@example.com,Almeirim,Pequena Empresa
+CLI-0034,Erika Pereira-Mota,joel30@example.net,Rio Tinto,Consumidor
+CLI-0035,Débora da Abreu,miriamvieira@example.com,Gouveia,Consumidor
+CLI-0036,Yasmin Gomes,luciacastro@example.net,Beja,Empresarial
+CLI-0037,Camila Lima,brunocastro@example.net,Penafiel,Empresarial
+CLI-0038,Diego Torres,hrocha@example.net,Vila Nova de Gaia,Pequena Empresa
+CLI-0039,Luciana Simões,esteveslucas@example.com,Paredes,Pequena Empresa
+CLI-0040,Vicente Morais-Henriques,santiago30@example.net,Covilhã,Empresarial
+CLI-0041,Denis Ribeiro,vitoria82@example.org,Montijo,Empresarial
+CLI-0042,César Rocha,aassuncao@example.org,Oliveira do Bairro,Pequena Empresa
+CLI-0043,Cláudio Pinho,abranco@example.com,Gafanha da Nazaré,Consumidor
+CLI-0044,Luís Pereira,victoriacorreia@example.com,Faro,Premium
+CLI-0045,Leonor Cunha,maiabarbara@example.net,Horta,Pequena Empresa
+CLI-0046,Denis Alves-Branco,lucia19@example.net,Ourém,Consumidor
+CLI-0047,Camila Cardoso,fabio19@example.net,Amarante,Premium
+CLI-0048,Miriam Leite,isabelatavares@example.net,Tarouca,Premium
+CLI-0049,Mateus Rodrigues,lferreira@example.org,Caldas da Rainha,Consumidor
+CLI-0050,Lucas Pinto,lealmarcio@example.net,Lisboa,Empresarial
+CLI-0051,Denis Borges-Pereira,xaviermiranda@example.net,Portimão,Empresarial
+CLI-0052,Luna Valente,caetana92@example.com,Ílhavo,Pequena Empresa
+CLI-0053,Edgar Valente,iamaral@example.org,Mealhada,Premium
+CLI-0054,Constança Figueiredo,pinhonicole@example.com,Almeirim,Empresarial
+CLI-0055,Fernando Reis,rafaelaborges@example.net,Ponte de Sor,Premium
+CLI-0056,Letícia Torres,vazleonor@example.com,Agualva-Cacém,Pequena Empresa
+CLI-0057,Duarte da Rocha,carlospinheiro@example.org,Figueira da Foz,Premium
+CLI-0058,Carolina Lopes,icoelho@example.com,Fiães,Premium
+CLI-0059,Guilherme Maia,fpaiva@example.org,Maia,Consumidor
+CLI-0060,Álvaro Henriques,cristianobranco@example.org,Santarém,Pequena Empresa
+CLI-0061,Gonçalo Marques,amaralsamuel@example.org,Rebordosa,Pequena Empresa
+CLI-0062,Álvaro Assunção,henrique17@example.net,Gouveia,Premium
+CLI-0063,Valentim Ribeiro,fabiana41@example.com,Oliveira do Hospital,Pequena Empresa
+CLI-0064,Ivan Lopes,lisandro18@example.net,Serpa,Premium
+CLI-0065,César Andrade,filipeabreu@example.net,Funchal,Pequena Empresa
+CLI-0066,Anita Silva,cmota@example.net,Santa Maria da Feira,Premium
+CLI-0067,Kyara Marques,yaramoura@example.com,Vila Franca de Xira,Premium
+CLI-0068,Hugo Esteves,brancoanita@example.net,Reguengos de Monsaraz,Consumidor
+CLI-0069,Carolina Gonçalves-Amaral,wmatias@example.net,Tomar,Pequena Empresa
+CLI-0070,Samuel Loureiro,alvesleonardo@example.net,Viana do Castelo,Consumidor
+CLI-0071,Constança do Loureiro,wvaz@example.org,São Salvador de Lordelo,Pequena Empresa
+CLI-0072,Diogo da Gonçalves,gabrielpaiva@example.org,Seia,Premium
+CLI-0073,Mara Cruz,antunesvioleta@example.net,Póvoa de Varzim,Pequena Empresa
+CLI-0074,Guilherme Nascimento,isaac84@example.org,Felgueiras,Premium
+CLI-0075,Kevin Pereira,emiliavaz@example.com,Olhão,Consumidor
+CLI-0076,Mariana de Machado,nuriasoares@example.net,Elvas,Pequena Empresa
+CLI-0077,Artur Leite,hmatos@example.org,Valbom,Empresarial
+CLI-0078,Jorge Azevedo,carneiroalicia@example.net,Loulé,Premium
+CLI-0079,Bárbara-Yara Vieira,guerreiromaria@example.net,Loures,Consumidor
+CLI-0080,Nádia Martins,carolinapinheiro@example.com,Caniço,Premium
+CLI-0081,Camila Faria-Lopes,castroruben@example.org,Ribeira Grande,Consumidor
+CLI-0082,Tiago Esteves-Alves,carneiroana@example.org,Quarteira,Premium
+CLI-0083,Rita Loureiro,goncalvescamila@example.com,Amadora,Premium
+CLI-0084,Eduardo Morais,srodrigues@example.org,Paços de Ferreira,Empresarial
+CLI-0085,Luna-Raquel Teixeira,mariacoelho@example.com,Oliveira do Bairro,Consumidor
+CLI-0086,Melissa Borges,sebastiao90@example.net,Albufeira,Pequena Empresa
+CLI-0087,Tiago Baptista,renato84@example.com,Funchal,Empresarial
+CLI-0088,Ricardo Magalhães,catarinasoares@example.com,Vila Nova de Santo André,Empresarial
+CLI-0089,João Carvalho,qhenriques@example.com,Esmoriz,Premium
+CLI-0090,Dinis Miranda,tsantos@example.net,Vila Real de Santo António,Empresarial
+CLI-0091,Camila Fonseca,claudio22@example.com,Caniço,Premium
+CLI-0092,Daniel Melo,otorres@example.com,Funchal,Consumidor
+CLI-0093,Rafaela Pinto,bryan77@example.com,Aveiro,Pequena Empresa
+CLI-0094,Dinis Silva,henriquesmargarida@example.com,Matosinhos,Pequena Empresa
+CLI-0095,Luca Martins,bryan57@example.net,Caldas da Rainha,Empresarial
+CLI-0096,Emília Rocha,nunesclara@example.com,Vila do Conde,Pequena Empresa
+CLI-0097,Kelly Pinho,ricardogarcia@example.net,Évora,Consumidor
+CLI-0098,Vasco Macedo,correiaemanuel@example.net,Chaves,Premium
+CLI-0099,Alexandra-Madalena Henriques,magalhaesanita@example.com,Abrantes,Pequena Empresa
+CLI-0100,Carlos Freitas,diego93@example.com,Trofa,Consumidor
+CLI-0101,Kévim Ribeiro,qcarvalho@example.org,Cartaxo,Consumidor
+CLI-0102,Ema Moreira,fabiana99@example.org,Abrantes,Consumidor
+CLI-0103,Isabela Assunção,juliana46@example.net,Barreiro,Empresarial
+CLI-0104,Ana-Andreia Monteiro,alice60@example.net,Porto Santo,Pequena Empresa
+CLI-0105,Ângela Azevedo,miriamleal@example.com,Torres Novas,Premium
+CLI-0106,Wilson de Nunes,joaquimgarcia@example.org,Felgueiras,Premium
+CLI-0107,Joana Borges,sousaariana@example.net,Oliveira do Hospital,Consumidor
+CLI-0108,Pilar Macedo,mmachado@example.com,Mealhada,Consumidor
+CLI-0109,Filipa Guerreiro,saraujo@example.com,Entroncamento,Premium
+CLI-0110,Vítor da Castro,vascorocha@example.net,Vila Franca de Xira,Pequena Empresa
+CLI-0111,Eduarda Barbosa,sergiotavares@example.org,Barcelos,Empresarial
+CLI-0112,Rita de Nunes,fpacheco@example.net,Montijo,Empresarial
+CLI-0113,Bruno da Leal,noa19@example.com,Vila do Conde,Consumidor
+CLI-0114,Joel Coelho,ooliveira@example.org,Amadora,Pequena Empresa
+CLI-0115,Frederico de Abreu,rguerreiro@example.org,Porto,Premium
+CLI-0116,Gil Gonçalves-Loureiro,almeidakevin@example.net,Tarouca,Consumidor
+CLI-0117,Francisca Costa-Magalhães,jbarbosa@example.com,Setúbal,Empresarial
+CLI-0118,Nelson Mota,lucasmoreira@example.com,Quarteira,Pequena Empresa
+CLI-0119,Luca Gomes,claudio91@example.com,Moura,Pequena Empresa
+CLI-0120,Tatiana Castro,marcioneves@example.net,Setúbal,Consumidor
+CLI-0121,Eduardo Simões-Figueiredo,ubarbosa@example.net,Vila Real,Pequena Empresa
+CLI-0122,Jorge Coelho,sergio79@example.org,Lixa,Empresarial
+CLI-0123,Larissa Neves,mnogueira@example.org,Abrantes,Premium
+CLI-0124,Eva Vieira,ztorres@example.com,Mirandela,Consumidor
+CLI-0125,João Alves,qcorreia@example.org,Porto,Pequena Empresa
+CLI-0126,Kelly Batista,zfreitas@example.org,Costa da Caparica,Pequena Empresa
+CLI-0127,Débora Oliveira,xmelo@example.org,Almada,Pequena Empresa
+CLI-0128,Bárbara Lima,renato39@example.com,Viseu,Pequena Empresa
+CLI-0129,Nuno da Almeida,ivan67@example.net,Guarda,Premium
+CLI-0130,Erica do Costa,santiagoamorim@example.com,Anadia,Premium
+CLI-0131,Érica Machado,andreiaguerreiro@example.org,Valbom,Consumidor
+CLI-0132,Valentim Carvalho,mnogueira@example.org,Fiães,Empresarial
+CLI-0133,Íris Martins,correiamiriam@example.com,Sintra,Pequena Empresa
+CLI-0134,Diego do Vieira,baptistanuria@example.org,Macedo de Cavaleiros,Pequena Empresa
+CLI-0135,Diego Garcia,barbaraleite@example.com,Amora,Pequena Empresa
+CLI-0136,Bernardo Antunes,madalena87@example.org,Rio Maior,Empresarial
+CLI-0137,Luísa Campos,vascopinto@example.net,Anadia,Premium
+CLI-0138,Henrique Mendes,jcampos@example.org,Marinha Grande,Empresarial
+CLI-0139,Noa Reis-Batista,deboracoelho@example.com,Pinhel,Pequena Empresa
+CLI-0140,Ariana-Isabel Santos,matospatricia@example.net,Lagoa,Premium
+CLI-0141,Jorge Pinto,andrealves@example.net,Almada,Premium
+CLI-0142,Lorena Sousa-Amaral,teixeirapaulo@example.net,Beja,Pequena Empresa
+CLI-0143,Leonardo Mota,carloscarvalho@example.com,Cartaxo,Empresarial
+CLI-0144,Eduardo Machado-Nunes,alvaroleite@example.org,Vila Nova de Gaia,Consumidor
+CLI-0145,Rodrigo do Assunção,ggarcia@example.com,Oliveira do Bairro,Empresarial
+CLI-0146,Alexandre Mendes,aliciavieira@example.org,Cantanhede,Pequena Empresa
+CLI-0147,Lourenço Carneiro,fabio25@example.org,Fafe,Consumidor
+CLI-0148,Catarina Lourenço,nairmota@example.org,Tavira,Pequena Empresa
+CLI-0149,Artur Campos,ncastro@example.net,Gandra,Empresarial
+CLI-0150,Valentim Silva-Ferreira,gabriela25@example.net,Vila Real,Premium
+CLI-0151,Ângelo Gaspar,luanapinheiro@example.com,Praia da Vitória,Premium
+CLI-0152,Íris Gomes,kleal@example.org,Portimão,Empresarial
+CLI-0153,Vera-Inês Cunha,borgesalvaro@example.net,Alcácer do Sal,Empresarial
+CLI-0154,Margarida-Inês Vieira,raquelneves@example.net,Oliveira do Bairro,Empresarial
+CLI-0155,Luana Moreira,nsousa@example.com,Tomar,Empresarial
+CLI-0156,Diana Figueiredo-Miranda,matosvera@example.com,São João da Madeira,Empresarial
+CLI-0157,Daniela Tavares-Silva,saamelia@example.net,Silves,Consumidor
+CLI-0158,Flor Marques,constanca66@example.com,Vila Franca de Xira,Pequena Empresa
+CLI-0159,Raquel Esteves-Morais,petrabaptista@example.com,Odivelas,Premium
+CLI-0160,Lorena Soares,torresclara@example.org,Fafe,Pequena Empresa
+CLI-0161,Ariana Matos,melanienascimento@example.org,Vila Nova de Gaia,Premium
+CLI-0162,Manuel Nunes,denisantunes@example.net,Guimarães,Empresarial
+CLI-0163,Sofia Coelho,omarques@example.net,Mealhada,Premium
+CLI-0164,Eduardo Teixeira,pcorreia@example.org,Vila Franca de Xira,Pequena Empresa
+CLI-0165,Xavier Ribeiro,fgaspar@example.com,Cartaxo,Premium
+CLI-0166,Vicente Pinho,ymagalhaes@example.net,Lourosa,Pequena Empresa
+CLI-0167,Miriam Ferreira,dinis13@example.org,Espinho,Empresarial
+CLI-0168,David Ferreira-Soares,jsoares@example.org,Torres Novas,Premium
+CLI-0169,Gil Azevedo,henriquesdavid@example.org,Ribeira Grande,Premium
+CLI-0170,Leonardo de Monteiro,xavieraraujo@example.com,Pinhel,Premium
+CLI-0171,Dinis Paiva,ritaferreira@example.net,Trofa,Premium
+CLI-0172,Melissa do Pires,helena90@example.net,Guimarães,Pequena Empresa
+CLI-0173,Kevin Castro-Pacheco,carlos27@example.org,Estarreja,Consumidor
+CLI-0174,Madalena Andrade,nairalmeida@example.net,Marinha Grande,Consumidor
+CLI-0175,Rafael de Valente,silvavitoria@example.org,Trancoso,Premium
+CLI-0176,Kevin Moura,frederico82@example.net,Amadora,Pequena Empresa
+CLI-0177,Teresa Carneiro,mirandaguilherme@example.org,Valbom,Consumidor
+CLI-0178,Noa Baptista,artur84@example.org,Torres Novas,Empresarial
+CLI-0179,Carlota de Mota,opires@example.net,Barcelos,Empresarial
+CLI-0180,Bárbara-Bárbara Pinto,lcampos@example.com,Ponte de Sor,Consumidor
+CLI-0181,Henrique Sousa,pedrogoncalves@example.net,Montijo,Empresarial
+CLI-0182,Beatriz-Yara Henriques,mendesenzo@example.com,Lamego,Consumidor
+CLI-0183,Kevin Mota,almeidakyara@example.org,Póvoa de Santa Iria,Empresarial
+CLI-0184,Kévim Rodrigues,gustavo85@example.net,Portalegre,Premium
+CLI-0185,Yasmin Pinheiro,ogaspar@example.net,Santana,Consumidor
+CLI-0186,Cláudio Soares,pirespatricia@example.org,Tarouca,Pequena Empresa
+CLI-0187,Camila Ramos,joanadomingues@example.com,Rebordosa,Consumidor
+CLI-0188,Carolina Abreu,jose15@example.net,Estremoz,Premium
+CLI-0189,Lourenço Gonçalves,bmatias@example.com,Estremoz,Empresarial
+CLI-0190,Noa Abreu,rafaelaandrade@example.net,Ovar,Consumidor
+CLI-0191,Vicente Fernandes,bianca79@example.com,Rio Maior,Premium
+CLI-0192,Ana Correia-Coelho,mario32@example.net,Lisboa,Empresarial
+CLI-0193,Emma Lima,pereiramateus@example.com,Lourosa,Premium
+CLI-0194,Petra Vicente,saraantunes@example.net,Gondomar,Pequena Empresa
+CLI-0195,Diana Ramos,sebastiaobrito@example.net,Lixa,Pequena Empresa
+CLI-0196,Vicente Faria,desteves@example.org,Vizela,Premium
+CLI-0197,Vasco Carvalho,lopesiara@example.com,Rio Tinto,Premium
+CLI-0198,Yara Freitas,oborges@example.net,Sines,Consumidor
+CLI-0199,Isabel Lima,matiasbeatriz@example.org,Loulé,Empresarial
+CLI-0200,Matias Moura,irodrigues@example.com,Almada,Pequena Empresa
+CLI-0201,Benjamim Cruz,mateusmaia@example.org,São Salvador de Lordelo,Pequena Empresa
+CLI-0202,Renata Tavares,teresavicente@example.com,Odivelas,Empresarial
+CLI-0203,Paulo Pereira,figueiredoleonor@example.com,Matosinhos,Empresarial
+CLI-0204,Paulo Silva,yarateixeira@example.net,Vale de Cambra,Consumidor
+CLI-0205,Isabela Mota,fgarcia@example.org,Lourosa,Empresarial
+CLI-0206,Brian Martins,sofiaborges@example.net,Seixal,Consumidor
+CLI-0207,Nicole Rocha,evamatos@example.org,Maia,Consumidor
+CLI-0208,Noah Morais,tatianamelo@example.net,Praia da Vitória,Pequena Empresa
+CLI-0209,Marta Leite,enzo24@example.com,Amora,Pequena Empresa
+CLI-0210,Simão do Assunção,vcarneiro@example.net,Vila Nova de Santo André,Empresarial
+CLI-0211,Leonor Mendes,onunes@example.net,Valpaços,Empresarial
+CLI-0212,Débora Antunes,baptistasamuel@example.com,Silves,Consumidor
+CLI-0213,Mariana Soares,ismaelaraujo@example.net,Mêda,Consumidor
+CLI-0214,Mateus do Antunes,gabrieljesus@example.org,Sines,Empresarial
+CLI-0215,Luca Maia,leticiafreitas@example.net,Rio Maior,Empresarial
+CLI-0216,Cristiano Henriques,adrianapinheiro@example.org,Peso da Régua,Empresarial
+CLI-0217,Juliana Soares,cpinho@example.net,Mêda,Premium
+CLI-0218,Rafael Nunes,gomesemma@example.net,Peniche,Consumidor
+CLI-0219,Luísa Torres,paivarenata@example.org,Montijo,Consumidor
+CLI-0220,Érica Morais,carvalhoruben@example.com,Ílhavo,Premium
+CLI-0221,Denis Antunes,inesgarcia@example.com,Marco de Canaveses,Pequena Empresa
+CLI-0222,Kevin Assunção,kmatos@example.net,Santarém,Consumidor
+CLI-0223,Martim Sousa,correiajoel@example.net,Trancoso,Pequena Empresa
+CLI-0224,Iara Almeida,hugo79@example.net,Silves,Premium
+CLI-0225,Bárbara Jesus,nairbarros@example.net,Rebordosa,Consumidor
+CLI-0226,Ricardo Alves,diogo92@example.net,Vila Real,Premium
+CLI-0227,Kévim Gonçalves,jbarros@example.org,Bragança,Consumidor
+CLI-0228,André Gonçalves,ramoscarolina@example.com,Peso da Régua,Consumidor
+CLI-0229,Alexandra Lopes,cunhaleticia@example.net,Covilhã,Consumidor
+CLI-0230,Inês Fernandes,anita75@example.com,Pinhel,Premium
+CLI-0231,Kevin Jesus,batistabenedita@example.org,Paredes,Consumidor
+CLI-0232,Diana de Reis,wsousa@example.com,Sintra,Pequena Empresa
+CLI-0233,Sandro Soares,fonsecadinis@example.com,Sabugal,Consumidor
+CLI-0234,Samuel Moreira,barrosmarta@example.org,Santa Comba Dão,Empresarial
+CLI-0235,Bruno Tavares,cesteves@example.net,Pombal,Premium
+CLI-0236,Lara Sousa,nelsonazevedo@example.net,Fafe,Pequena Empresa
+CLI-0237,Benedita Monteiro,nmoura@example.net,Vila do Conde,Consumidor
+CLI-0238,Margarida Domingues-Carneiro,kesteves@example.net,Estremoz,Consumidor
+CLI-0239,Pedro Oliveira-Freitas,soareslisandro@example.net,Caniço,Premium
+CLI-0240,Renata Borges,melissa39@example.com,Almada,Consumidor
+CLI-0241,Renato Amaral,rfreitas@example.net,Esmoriz,Consumidor
+CLI-0242,Joana Amaral,noahgaspar@example.com,Reguengos de Monsaraz,Consumidor
+CLI-0243,Violeta do Guerreiro,pachecoruben@example.org,Almada,Pequena Empresa
+CLI-0244,Rita Pinho,ericafonseca@example.org,Moura,Premium
+CLI-0245,Nádia Branco,nadiateixeira@example.org,Rio Maior,Premium
+CLI-0246,Yasmin Melo,valentecarolina@example.com,Portalegre,Consumidor
+CLI-0247,Mara Almeida,kvalente@example.org,Oliveira do Bairro,Pequena Empresa
+CLI-0248,Isaac Carvalho-Freitas,sofia45@example.net,Amarante,Empresarial
+CLI-0249,Pilar Anjos,fbrito@example.net,Évora,Empresarial
+CLI-0250,Mariana-Bianca Castro,beatrizmatos@example.org,Póvoa de Varzim,Premium
+CLI-0251,Paulo Anjos,maria86@example.net,Porto Santo,Pequena Empresa
+CLI-0252,Enzo Ferreira,macedolisandro@example.org,Gafanha da Nazaré,Consumidor
+CLI-0253,Catarina-Vitória Nunes,petrabrito@example.org,Lourosa,Premium
+CLI-0254,Ivan Barbosa,violeta80@example.org,Santa Comba Dão,Consumidor
+CLI-0255,Ana-Alexandra Anjos,araujomanuel@example.org,Felgueiras,Pequena Empresa
+CLI-0256,Melissa Magalhães,pereiraisabel@example.net,Olhão,Pequena Empresa
+CLI-0257,Isabela-Joana Carneiro,vicentecesar@example.com,São João da Madeira,Empresarial
+CLI-0258,Vítor Macedo,mariana59@example.net,Porto,Empresarial
+CLI-0259,Helena Leite,nogueiraemanuel@example.org,Paredes,Consumidor
+CLI-0260,Petra Coelho,yaracruz@example.org,São Mamede de Infesta,Consumidor
+CLI-0261,Alexandre Rocha-Pacheco,carminho00@example.net,São Mamede de Infesta,Empresarial
+CLI-0262,Júlia Faria,beatrizmachado@example.org,Sabugal,Consumidor
+CLI-0263,William Correia,lorena01@example.com,Mirandela,Empresarial
+CLI-0264,Henrique Miranda-Campos,oliveirabianca@example.org,Peniche,Premium
+CLI-0265,Erika Correia,antonio24@example.net,Penafiel,Empresarial
+CLI-0266,Jorge Carvalho,camila98@example.net,Lourosa,Empresarial
+CLI-0267,Joaquim Moura,martinsbarbara@example.org,São João da Madeira,Premium
+CLI-0268,César Correia,mendespedro@example.org,Oliveira do Hospital,Pequena Empresa
+CLI-0269,Fernando Castro,soraiamachado@example.org,Santa Cruz,Premium
+CLI-0270,Frederico Magalhães,vitoria33@example.org,Tomar,Empresarial
+CLI-0271,Núria Ribeiro,mauro37@example.org,Trancoso,Consumidor
+CLI-0272,Noa Carneiro,gnunes@example.org,Macedo de Cavaleiros,Empresarial
+CLI-0273,Eduarda Matias,lopesanita@example.org,Ovar,Pequena Empresa
+CLI-0274,Benjamim Tavares,batistarita@example.com,Vila Nova de Foz Côa,Empresarial
+CLI-0275,Clara Assunção,valmeida@example.org,São Salvador de Lordelo,Pequena Empresa
+CLI-0276,Ângelo Lourenço,teixeirabruna@example.com,Guarda,Premium
+CLI-0277,Victória Sá,catarinafonseca@example.org,Vila Franca de Xira,Empresarial
+CLI-0278,Matias Vieira,beneditadomingues@example.org,Abrantes,Consumidor
+CLI-0279,Guilherme Branco,rodriguesjoao@example.org,Aveiro,Consumidor
+CLI-0280,Eva Tavares-Abreu,alexandre99@example.org,Lixa,Premium
+CLI-0281,Soraia do Brito,imoreira@example.org,Mirandela,Pequena Empresa
+CLI-0282,Anita-Melissa Mota,imatos@example.com,Silves,Pequena Empresa
+CLI-0283,André da Pinheiro,cmota@example.com,Portalegre,Pequena Empresa
+CLI-0284,Matias do Figueiredo,azevedotomas@example.net,Valbom,Consumidor
+CLI-0285,Fernando Lima,wilson22@example.net,Gondomar,Premium
+CLI-0286,Rúben Brito,wmorais@example.org,Marinha Grande,Premium
+CLI-0287,Yara Machado-Leal,umiranda@example.org,Oliveira do Bairro,Pequena Empresa
+CLI-0288,Jorge Pinho,barrosisabel@example.com,Alcácer do Sal,Consumidor
+CLI-0289,Mateus de Esteves,cbrito@example.org,Câmara de Lobos,Consumidor
+CLI-0290,Bruna Azevedo,antunesrafael@example.com,Olhão,Consumidor
+CLI-0291,Daniel Domingues,micael48@example.net,Oliveira do Bairro,Premium
+CLI-0292,Vera Esteves,carolinaantunes@example.net,Chaves,Premium
+CLI-0293,Mário Domingues-Moura,zcastro@example.com,Entroncamento,Pequena Empresa
+CLI-0294,Alexandra Gaspar,acardoso@example.net,Silves,Premium
+CLI-0295,Bruna Pacheco,gmoreira@example.com,Tomar,Premium
+CLI-0296,Álvaro Brito,duarte98@example.com,São Salvador de Lordelo,Empresarial
+CLI-0297,Noah Andrade,barbosafrederico@example.org,Esmoriz,Premium
+CLI-0298,Gabriel Carneiro,bsantos@example.net,Figueira da Foz,Pequena Empresa
+CLI-0299,Dinis Ferreira,nlopes@example.com,Santa Cruz,Pequena Empresa
+CLI-0300,Kyara Figueiredo,leonardosilva@example.org,Évora,Pequena Empresa
+CLI-0301,Guilherme Moreira,fariagabriel@example.com,Santarém,Empresarial
+CLI-0302,Adriana da Marques,gmiranda@example.com,Évora,Pequena Empresa
+CLI-0303,César Lima,brancojoana@example.net,Montemor-o-Novo,Pequena Empresa
+CLI-0304,Júlia Sousa-Mota,jesusmarcos@example.org,Santo Tirso,Premium
+CLI-0305,Carlota Mendes,mendesivo@example.net,Póvoa de Varzim,Premium
+CLI-0306,Emma Baptista,martimhenriques@example.com,Matosinhos,Premium
+CLI-0307,Henrique Soares,dsoares@example.com,Fátima,Consumidor
+CLI-0308,Victória Araújo,xlima@example.org,Miranda do Douro,Empresarial
+CLI-0309,Núria Neves-Lourenço,lunamarques@example.net,Cartaxo,Consumidor
+CLI-0310,Noah Barbosa,helena99@example.com,Caldas da Rainha,Consumidor
+CLI-0311,Fernando Amaral,limaeduardo@example.com,Matosinhos,Premium
+CLI-0312,Emma Miranda-Pinto,pedroazevedo@example.org,Vila Nova de Foz Côa,Consumidor
+CLI-0313,Carolina Torres,pinheiromarcos@example.com,Sacavém,Pequena Empresa
+CLI-0314,Vitória Simões,batistamatilde@example.net,Loures,Consumidor
+CLI-0315,Cláudio Cardoso,alicemaia@example.net,Maia,Consumidor
+CLI-0316,Simão Vicente-Moura,netosebastiao@example.net,Setúbal,Pequena Empresa
+CLI-0317,Igor Cruz,brancogabriel@example.com,Viseu,Pequena Empresa
+CLI-0318,João Morais,vieiracristiano@example.net,Guimarães,Pequena Empresa
+CLI-0319,Santiago Sá,barbosaeduardo@example.com,Sines,Empresarial
+CLI-0320,Eva Maia,anunes@example.net,Sacavém,Consumidor
+CLI-0321,Madalena Lourenço-Correia,inascimento@example.org,Amora,Pequena Empresa
+CLI-0322,Bárbara Lopes,barbaraamorim@example.net,Beja,Premium
+CLI-0323,Ângelo Nunes,wilson44@example.net,Amadora,Consumidor
+CLI-0324,Amélia-Carolina Campos,salvadorsilva@example.org,Coimbra,Consumidor
+CLI-0325,Valentina Sá,antonio53@example.com,Santarém,Premium
+CLI-0326,Cristiano Andrade,edgarmoura@example.com,Ourém,Pequena Empresa
+CLI-0327,António Batista,andreia12@example.org,Câmara de Lobos,Premium
+CLI-0328,Andreia Fernandes,violeta07@example.org,Marco de Canaveses,Consumidor
+CLI-0329,Bianca Mendes,carloscosta@example.net,Miranda do Douro,Empresarial
+CLI-0330,Flor Freitas,cnogueira@example.com,Penafiel,Consumidor
+CLI-0331,Wilson Silva,marquesleonor@example.com,Mealhada,Empresarial
+CLI-0332,David Anjos,claudio17@example.net,Vila Nova de Santo André,Consumidor
+CLI-0333,Juliana Leite,andremacedo@example.org,Entroncamento,Premium
+CLI-0334,Rodrigo Oliveira,lgomes@example.com,Silves,Empresarial
+CLI-0335,Alexandre Fonseca,nunocruz@example.net,Ílhavo,Consumidor
+CLI-0336,Wilson da Teixeira,petra76@example.org,Gondomar,Consumidor
+CLI-0337,Vasco Amaral,fabiolima@example.net,Alcobaça,Empresarial
+CLI-0338,Bianca Figueiredo,freitaslarissa@example.net,Sines,Premium
+CLI-0339,Bryan Domingues,renato41@example.net,Penafiel,Empresarial
+CLI-0340,Camila Fonseca,vitorpires@example.net,Beja,Premium
+CLI-0341,Manuel Castro,piresmauro@example.org,Covilhã,Premium
+CLI-0342,Salomé Baptista,wmagalhaes@example.com,Viana do Castelo,Consumidor
+CLI-0343,Letícia-Carlota Torres,luciana60@example.org,Abrantes,Premium
+CLI-0344,Santiago Jesus-Gomes,vsoares@example.com,Lisboa,Empresarial
+CLI-0345,Gabriela Macedo,reishelena@example.com,Albufeira,Premium
+CLI-0346,Íris da Sá,lsimoes@example.org,Montijo,Pequena Empresa
+CLI-0347,Sandro Mendes,tribeiro@example.org,Angra do Heroísmo,Premium
+CLI-0348,Vasco Nunes,fmatos@example.net,Gondomar,Premium
+CLI-0349,Nádia Sá,xcunha@example.net,Vila Real de Santo António,Pequena Empresa
+CLI-0350,Joana-Clara Vieira,samuel84@example.org,Viseu,Empresarial
+CLI-0351,Fernando Magalhães,kcardoso@example.com,Póvoa de Varzim,Consumidor
+CLI-0352,Jaime Fernandes-Sousa,melissa52@example.net,Barreiro,Empresarial
+CLI-0353,Bernardo Fernandes-Vaz,brancobruno@example.net,Pombal,Pequena Empresa
+CLI-0354,Gil Costa,urodrigues@example.com,Tondela,Premium
+CLI-0355,Marcos Torres,ivoneves@example.org,Tarouca,Premium
+CLI-0356,Lucas Matos,cristiano50@example.org,Ílhavo,Consumidor
+CLI-0357,Madalena Azevedo,upereira@example.com,Aveiro,Premium
+CLI-0358,Alice Guerreiro,barrosmiguel@example.net,Bragança,Consumidor
+CLI-0359,Soraia do Moreira,lmagalhaes@example.net,Valpaços,Premium
+CLI-0360,Soraia Andrade,gesteves@example.org,Ribeira Grande,Premium
+CLI-0361,Beatriz Vaz,moraiserica@example.com,Albufeira,Consumidor
+CLI-0362,Fabiana Rodrigues,ccoelho@example.com,Amora,Premium
+CLI-0363,Wilson Cardoso,brancofabio@example.com,Penafiel,Premium
+CLI-0364,Mafalda Cardoso,ftorres@example.net,Caldas da Rainha,Empresarial
+CLI-0365,Joana Gaspar,estevesricardo@example.org,Loures,Consumidor
+CLI-0366,Benjamim Moura-Azevedo,garcialuana@example.com,Santa Cruz,Premium
+CLI-0367,Ema Fonseca-Teixeira,enascimento@example.org,Caldas da Rainha,Pequena Empresa
+CLI-0368,Wilson Oliveira,lisandrofonseca@example.net,Vizela,Premium
+CLI-0369,Cristiano de Paiva,vitormachado@example.org,Ermesinde,Pequena Empresa
+CLI-0370,Noa Neto,ines82@example.net,Espinho,Empresarial
+CLI-0371,Marta da Leal,simoesnadia@example.net,Vila Nova de Famalicão,Consumidor
+CLI-0372,Guilherme Vicente,xmacedo@example.org,Maia,Empresarial
+CLI-0373,Diana Oliveira,freis@example.net,Ermesinde,Consumidor
+CLI-0374,Leandro Carneiro,alvaro00@example.org,Alverca do Ribatejo,Premium
+CLI-0375,Frederico Teixeira,gasparmario@example.net,Faro,Empresarial
+CLI-0376,Júlia Freitas,kleite@example.org,Almeirim,Empresarial
+CLI-0377,Diego Vicente,sebastiaocardoso@example.org,Portimão,Pequena Empresa
+CLI-0378,Salvador Nogueira,salome05@example.com,Freamunde,Consumidor
+CLI-0379,Joaquim Barros,hugo87@example.org,Lagos,Empresarial
+CLI-0380,Denis Paiva,micael44@example.org,Castelo Branco,Premium
+CLI-0381,Leonardo Machado-Pereira,paivaema@example.org,Almeirim,Premium
+CLI-0382,Mateus Matos,gbaptista@example.org,Évora,Consumidor
+CLI-0383,Eva Pacheco,mourarui@example.org,Póvoa de Santa Iria,Pequena Empresa
+CLI-0384,Carminho Cruz-Lourenço,csantos@example.net,Entroncamento,Pequena Empresa
+CLI-0385,Micael Andrade,petra83@example.org,Espinho,Empresarial
+CLI-0386,Carolina-Ângela Gonçalves,duartevalente@example.com,Reguengos de Monsaraz,Empresarial
+CLI-0387,Luciana Pires,ismaelbatista@example.net,Barcelos,Pequena Empresa
+CLI-0388,Filipa Costa-Monteiro,silvaerica@example.org,Matosinhos,Empresarial
+CLI-0389,Mélanie Domingues,fonsecacarminho@example.net,Lamego,Consumidor
+CLI-0390,Nelson de Barbosa,tcosta@example.com,Ribeira Grande,Pequena Empresa
+CLI-0391,Sofia Pacheco,francisca22@example.net,Santiago do Cacém,Pequena Empresa
+CLI-0392,Alice Amaral,rodriguesflor@example.org,Montemor-o-Novo,Premium
+CLI-0393,Lúcia Domingues,leonoraraujo@example.net,Setúbal,Pequena Empresa
+CLI-0394,Gabriela Araújo,maiamiriam@example.com,Lixa,Premium
+CLI-0395,Ismael Araújo,ruben02@example.com,Barcelos,Consumidor
+CLI-0396,Violeta Fernandes,anaalmeida@example.org,Ermesinde,Empresarial
+CLI-0397,Kévim Monteiro,barbosafrancisca@example.net,Gouveia,Premium
+CLI-0398,Maria Maia-Pinheiro,mendesrodrigo@example.org,Caniço,Consumidor
+CLI-0399,Fabiana Santos-Morais,cruzangelo@example.com,São Salvador de Lordelo,Pequena Empresa
+CLI-0400,Marta de Tavares,maiamiriam@example.com,Vila Nova de Foz Côa,Empresarial
+CLI-0401,Gabriel Nascimento,pedromonteiro@example.org,Braga,Premium
+CLI-0402,Nuno Pires,barbosadenis@example.com,Torres Novas,Premium
+CLI-0403,Luciana Nascimento,matilde09@example.org,Oliveira de Azeméis,Pequena Empresa
+CLI-0404,Constança Reis,diogobarbosa@example.com,Santo Tirso,Empresarial
+CLI-0405,Pedro da Faria,kmendes@example.org,Lixa,Pequena Empresa
+CLI-0406,Bryan Garcia,erikaantunes@example.org,Lixa,Consumidor
+CLI-0407,Gabriela Maia,alicia93@example.org,Esposende,Consumidor
+CLI-0408,Nádia Valente,claramonteiro@example.net,Vila Nova de Gaia,Consumidor
+CLI-0409,Luciana Coelho,ecarneiro@example.net,Vizela,Empresarial
+CLI-0410,Francisco Marques,emiranda@example.org,Portimão,Consumidor
+CLI-0411,Caetana Fonseca,fonsecaalvaro@example.net,Santana,Premium
+CLI-0412,Tiago Paiva,mariaesteves@example.net,Ílhavo,Consumidor
+CLI-0413,Nair Carneiro,nogueiralara@example.org,Vila Nova de Foz Côa,Pequena Empresa
+CLI-0414,António Marques,benjamimgomes@example.com,Barcelos,Consumidor
+CLI-0415,Gaspar Mendes,renataabreu@example.net,Silves,Premium
+CLI-0416,Gustavo Oliveira,caetanasilva@example.com,Amora,Pequena Empresa
+CLI-0417,César Nascimento,aribeiro@example.net,Ílhavo,Empresarial
+CLI-0418,Bianca Moura,lneto@example.net,Gandra,Consumidor
+CLI-0419,Mário Nogueira,wcunha@example.org,Braga,Empresarial
+CLI-0420,Bryan Teixeira,evaamaral@example.com,Póvoa de Santa Iria,Consumidor
+CLI-0421,Marco Abreu,ines04@example.org,Quarteira,Premium
+CLI-0422,Salvador Ferreira,luismartins@example.com,Valbom,Pequena Empresa
+CLI-0423,William Pires-Anjos,diogonunes@example.com,Oliveira de Azeméis,Premium
+CLI-0424,Edgar Araújo,ribeirotatiana@example.org,Alcobaça,Consumidor
+CLI-0425,Bruna Mota,nairbarros@example.org,Lamego,Pequena Empresa
+CLI-0426,Bárbara Paiva,kmendes@example.com,Coimbra,Pequena Empresa
+CLI-0427,Carolina Pinho,nadiacosta@example.com,Ermesinde,Empresarial
+CLI-0428,Vera Freitas,egarcia@example.com,Trancoso,Pequena Empresa
+CLI-0429,Beatriz do Barbosa,macedojoel@example.com,Paços de Ferreira,Pequena Empresa
+CLI-0430,Nuno Lourenço,yamaral@example.com,Angra do Heroísmo,Consumidor
+CLI-0431,Flor Cunha,bborges@example.net,Porto Santo,Premium
+CLI-0432,Gaspar Cunha-Monteiro,melaniepereira@example.com,Praia da Vitória,Premium
+CLI-0433,Mara Azevedo,motaluis@example.com,Chaves,Empresarial
+CLI-0434,Luana Barros,hbrito@example.org,Seixal,Empresarial
+CLI-0435,Vitória-Miriam Melo,rubenamorim@example.org,Lamego,Pequena Empresa
+CLI-0436,Ema Domingues,wcardoso@example.com,Portimão,Empresarial
+CLI-0437,Flor Costa,correiaartur@example.net,Coimbra,Pequena Empresa
+CLI-0438,Lucas Martins,lunapinheiro@example.net,Leiria,Pequena Empresa
+CLI-0439,Gaspar Rodrigues,cristiano46@example.org,Lisboa,Empresarial
+CLI-0440,Fabiana Teixeira,bantunes@example.com,Lisboa,Consumidor
+CLI-0441,Gonçalo Freitas,debora13@example.org,Freamunde,Premium
+CLI-0442,Beatriz de Cardoso,vpinto@example.com,Santo Tirso,Pequena Empresa
+CLI-0443,Juliana Magalhães,bianca80@example.com,Oliveira do Bairro,Premium
+CLI-0444,Joana-Francisca Costa,lealcarminho@example.org,Portimão,Premium
+CLI-0445,Catarina Melo-Abreu,tome95@example.net,Rio Maior,Consumidor
+CLI-0446,Matias Faria,nadia69@example.com,Vila Nova de Gaia,Premium
+CLI-0447,Leonardo Soares,sandro64@example.net,Beja,Pequena Empresa
+CLI-0448,Petra Teixeira,leticia53@example.com,Queluz,Premium
+CLI-0449,Marcos Neves,alvaro62@example.net,Portalegre,Pequena Empresa
+CLI-0450,Sérgio Correia,llima@example.com,Serpa,Empresarial
+CLI-0451,Matilde Vaz,marquesgabriel@example.com,Marco de Canaveses,Consumidor
+CLI-0452,Débora-Lúcia Fernandes,denisrodrigues@example.net,Viseu,Consumidor
+CLI-0453,Valentina Gomes-Assunção,simaomartins@example.net,Esposende,Empresarial
+CLI-0454,Santiago Matos,patriciabarbosa@example.org,Praia da Vitória,Consumidor
+CLI-0455,Igor Valente,oliveiranuno@example.com,Caniço,Pequena Empresa
+CLI-0456,Caetana Gaspar,sesteves@example.org,Quarteira,Empresarial
+CLI-0457,Luana Valente,fonsecabarbara@example.org,Ourém,Consumidor
+CLI-0458,Mário Costa,lopescarminho@example.net,Braga,Premium
+CLI-0459,Micael Valente-Costa,naiara90@example.com,Odivelas,Empresarial
+CLI-0460,Camila Batista,figueiredonoah@example.com,Esmoriz,Consumidor
+CLI-0461,Gabriela Loureiro-Assunção,pedro08@example.net,Valbom,Premium
+CLI-0462,Luana Cunha-Freitas,jvieira@example.com,Santarém,Premium
+CLI-0463,Gabriel Soares,vtorres@example.com,Ponta Delgada,Premium
+CLI-0464,Brian Esteves,gomesisabel@example.net,Alverca do Ribatejo,Empresarial
+CLI-0465,Rafael Melo,ricardomoura@example.net,Sines,Empresarial
+CLI-0466,Ema Figueiredo-Matias,brian62@example.com,Macedo de Cavaleiros,Consumidor
+CLI-0467,Salvador Andrade,paulocoelho@example.net,Peso da Régua,Premium
+CLI-0468,Ema Campos,claudio20@example.org,Alcácer do Sal,Premium
+CLI-0469,Cláudio Guerreiro,netoariana@example.com,Tondela,Consumidor
+CLI-0470,Melissa-Isabel Moura,leonor58@example.net,Moura,Consumidor
+CLI-0471,Mauro Matos,asousa@example.net,Paredes,Pequena Empresa
+CLI-0472,Salvador Anjos,kbatista@example.org,Paços de Ferreira,Premium
+CLI-0473,Carolina-Bianca Batista,jaime24@example.net,Viseu,Pequena Empresa
+CLI-0474,Salvador do Marques,ssa@example.net,Marco de Canaveses,Pequena Empresa
+CLI-0475,Kyara Campos,andrademariana@example.org,Chaves,Empresarial
+CLI-0476,Ariana Baptista,victoria32@example.com,Gouveia,Pequena Empresa
+CLI-0477,Emília Alves,cgaspar@example.net,Miranda do Douro,Consumidor
+CLI-0478,Isabel Amorim,pedromoura@example.org,Ponta Delgada,Empresarial
+CLI-0479,Miguel da Rodrigues,nferreira@example.net,Mêda,Premium
+CLI-0480,Teresa Fonseca,xmelo@example.com,Vila Nova de Famalicão,Empresarial
+CLI-0481,Nelson Mendes,nferreira@example.org,Leiria,Consumidor
+CLI-0482,Álvaro Lima,gasparleticia@example.org,Bragança,Premium
+CLI-0483,Hugo Lourenço,madalenamagalhaes@example.com,Alverca do Ribatejo,Consumidor
+CLI-0484,Patrícia Maia,verafonseca@example.com,Santa Cruz,Premium
+CLI-0485,Luísa Matos,wilsonpacheco@example.net,Ermesinde,Consumidor
+CLI-0486,Sara Brito,moreirajoana@example.com,Bragança,Premium
+CLI-0487,Joana Coelho,vera83@example.net,Serpa,Empresarial
+CLI-0488,Renata Nunes,deboratavares@example.org,Praia da Vitória,Consumidor
+CLI-0489,Daniela Figueiredo,isabelamatias@example.com,Beja,Consumidor
+CLI-0490,Lisandro do Campos,helenasoares@example.net,Guarda,Empresarial
+CLI-0491,Mélanie-Nair Carvalho,alexandra46@example.org,Póvoa de Varzim,Premium
+CLI-0492,Iara Freitas,meloemma@example.com,Mirandela,Empresarial
+CLI-0493,Jéssica-Alícia Pacheco,lbaptista@example.org,Peso da Régua,Premium
+CLI-0494,Santiago Barros,xavierbrito@example.com,Barreiro,Empresarial
+CLI-0495,Pilar Anjos,mfigueiredo@example.net,Paredes,Consumidor
+CLI-0496,Melissa Coelho,tome58@example.net,Faro,Pequena Empresa
+CLI-0497,Laura Matos,paivasimao@example.org,Alcácer do Sal,Consumidor
+CLI-0498,Mário Marques,motacarolina@example.net,Agualva-Cacém,Empresarial
+CLI-0499,Isabela Mendes,petramarques@example.com,Esmoriz,Pequena Empresa
+CLI-0500,Tiago Neto,igorgarcia@example.net,Freamunde,Empresarial

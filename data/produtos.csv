@@ -1,501 +1,151 @@
-ID_Produto,Nome_Produto,Categoria,Marca,Preco_Unitario,Custo_Unitario
-PROD-0001,Configurable transitional matrix TVs,Smartphones,Lenovo,1458.08,958.54
-PROD-0002,Profit-focused fresh-thinking open system Gaming,Gaming,HP,508.64,321.75
-PROD-0003,Switchable clear-thinking frame Smartphones,Portáteis,Dell,816.03,448.94
-PROD-0004,Reactive methodical portal Wearables,Portáteis,Xiaomi,500.89,356.81
-PROD-0005,Fully-configurable responsive help-desk TVs,Portáteis,Dell,1675.53,1052.31
-PROD-0006,Persistent context-sensitive database Smartphones,Wearables,Apple,719.01,516.69
-PROD-0007,Multi-lateral regional methodology Portáteis,Portáteis,Nintendo,694.37,460.36
-PROD-0008,Object-based stable Internet solution Gaming,Smartphones,LG,1070.73,577.67
-PROD-0009,Re-contextualized contextually-based capacity Portáteis,Portáteis,Logitech,1836.36,995.25
-PROD-0010,Multi-channeled global conglomeration Smartphones,Gaming,LG,1659.38,1119.48
-PROD-0011,Persevering value-added policy Wearables,Gaming,Samsung,1486.41,783.07
-PROD-0012,Total transitional data-warehouse Portáteis,Wearables,Microsoft,1470.36,1021.46
-PROD-0013,Public-key well-modulated software Gaming,Tablets,HP,1294.81,828.06
-PROD-0014,Extended web-enabled service-desk Smartphones,Acessórios,Logitech,1204.98,679.45
-PROD-0015,Programmable optimal focus group Tablets,Acessórios,Nintendo,1685.03,986.41
-PROD-0016,Organic actuating concept TVs,Acessórios,Nintendo,1112.45,612.07
-PROD-0017,Profound mission-critical infrastructure Gaming,Gaming,Sony,992.82,647.16
-PROD-0018,Object-based disintermediate open architecture Tablets,Wearables,Lenovo,212.75,143.01
-PROD-0019,Multi-lateral full-range matrices Tablets,Gaming,Samsung,39.88,21.0
-PROD-0020,Fundamental tertiary frame Gaming,Smartphones,Apple,1551.38,937.5
-PROD-0021,Reactive dynamic leverage Acessórios,Gaming,Dell,966.76,515.32
-PROD-0022,Progressive grid-enabled archive Gaming,Acessórios,Sony,1291.88,677.31
-PROD-0023,Multi-layered non-volatile projection Portáteis,TVs,JBL,906.01,600.43
-PROD-0024,Reverse-engineered 3rdgeneration firmware Tablets,TVs,Logitech,1314.45,778.81
-PROD-0025,Extended bi-directional analyzer TVs,Gaming,Samsung,230.75,129.56
-PROD-0026,Advanced object-oriented hub Gaming,TVs,JBL,718.35,472.1
-PROD-0027,Quality-focused zero tolerance workforce Tablets,Smartphones,JBL,699.52,534.34
-PROD-0028,Optimized tertiary conglomeration Smartphones,TVs,LG,1895.64,991.58
-PROD-0029,Intuitive well-modulated Graphic Interface Portáteis,Smartphones,Lenovo,1980.03,1002.31
-PROD-0030,Profit-focused 24hour capability Gaming,Gaming,Samsung,1152.72,876.95
-PROD-0031,Intuitive well-modulated capacity Tablets,Acessórios,Xiaomi,328.95,192.12
-PROD-0032,Advanced homogeneous attitude Smartphones,Portáteis,Apple,1730.51,1072.77
-PROD-0033,Upgradable national Local Area Network Portáteis,Portáteis,Nintendo,1229.73,799.69
-PROD-0034,Assimilated explicit access Wearables,Smartphones,Xiaomi,718.85,455.99
-PROD-0035,Persevering systemic product Acessórios,Tablets,Microsoft,648.81,426.01
-PROD-0036,Front-line intermediate framework Smartphones,Tablets,HP,1251.95,847.49
-PROD-0037,Managed content-based knowledgebase Smartphones,Wearables,Dell,1075.69,565.25
-PROD-0038,Business-focused foreground solution Acessórios,Wearables,Nintendo,1887.99,1167.38
-PROD-0039,Quality-focused well-modulated project Tablets,Portáteis,HP,1164.25,838.76
-PROD-0040,Profit-focused didactic service-desk Gaming,Portáteis,Nintendo,1785.51,1047.32
-PROD-0041,Monitored radical contingency Portáteis,Gaming,Dell,1769.74,1062.76
-PROD-0042,Streamlined bifurcated task-force Portáteis,Gaming,Lenovo,1324.61,1036.71
-PROD-0043,Programmable dedicated algorithm Wearables,Gaming,Logitech,1334.22,686.35
-PROD-0044,Open-source upward-trending middleware Tablets,TVs,Logitech,1960.99,1416.35
-PROD-0045,Decentralized intangible methodology Tablets,Gaming,Sony,614.55,324.4
-PROD-0046,Operative optimizing circuit TVs,Smartphones,Dell,1783.56,1270.69
-PROD-0047,Re-contextualized needs-based emulation Gaming,Portáteis,Samsung,1539.67,908.07
-PROD-0048,De-engineered bottom-line productivity Tablets,Wearables,Samsung,1912.36,976.56
-PROD-0049,Digitized system-worthy access Portáteis,Portáteis,LG,1608.7,934.49
-PROD-0050,Triple-buffered uniform time-frame TVs,Tablets,Xiaomi,405.88,238.07
-PROD-0051,Synergized human-resource Local Area Network Gaming,Wearables,Apple,1458.14,760.89
-PROD-0052,Public-key encompassing extranet Smartphones,Smartphones,Dell,1979.4,1159.75
-PROD-0053,Advanced responsive attitude TVs,Tablets,Apple,299.75,167.97
-PROD-0054,Synergistic methodical website Wearables,Gaming,JBL,606.0,397.62
-PROD-0055,Seamless encompassing product Tablets,Gaming,Samsung,1467.67,1008.07
-PROD-0056,Seamless intermediate firmware Gaming,Wearables,HP,1929.21,1287.97
-PROD-0057,Open-source 6thgeneration pricing structure Wearables,TVs,Logitech,146.64,87.66
-PROD-0058,Reverse-engineered exuding hardware Gaming,Smartphones,Xiaomi,335.99,253.45
-PROD-0059,Polarized full-range analyzer TVs,TVs,HP,33.69,17.53
-PROD-0060,Innovative asynchronous solution Acessórios,Wearables,Sony,299.05,198.02
-PROD-0061,Multi-channeled regional paradigm TVs,TVs,LG,1082.8,763.52
-PROD-0062,Cross-group optimal website Gaming,TVs,HP,1384.96,813.71
-PROD-0063,Multi-layered leadingedge protocol Smartphones,Acessórios,JBL,825.52,455.65
-PROD-0064,Seamless clear-thinking challenge Acessórios,Acessórios,JBL,1468.02,1153.64
-PROD-0065,Universal mobile projection Smartphones,TVs,Xiaomi,395.51,219.27
-PROD-0066,Programmable bottom-line project Smartphones,Wearables,Lenovo,635.78,482.58
-PROD-0067,Reactive bottom-line encoding TVs,TVs,Samsung,335.47,170.94
-PROD-0068,Persistent multimedia hierarchy Portáteis,Smartphones,LG,1035.36,825.17
-PROD-0069,Business-focused fresh-thinking implementation Portáteis,Acessórios,Samsung,1035.88,796.14
-PROD-0070,Inverse real-time instruction set Gaming,Smartphones,JBL,1770.71,1113.15
-PROD-0071,Ergonomic intermediate archive Wearables,Wearables,Lenovo,170.13,128.52
-PROD-0072,Horizontal zero tolerance process improvement TVs,Acessórios,JBL,769.22,510.47
-PROD-0073,Face-to-face homogeneous support Smartphones,Acessórios,Logitech,863.62,444.31
-PROD-0074,Reactive directional definition Tablets,Smartphones,Lenovo,1007.0,543.29
-PROD-0075,Multi-lateral heuristic complexity Smartphones,Smartphones,LG,657.8,410.92
-PROD-0076,Quality-focused client-driven data-warehouse Tablets,Portáteis,LG,541.25,357.42
-PROD-0077,Object-based clear-thinking hierarchy Gaming,Portáteis,Lenovo,405.65,269.39
-PROD-0078,Reverse-engineered high-level middleware Tablets,Acessórios,JBL,410.16,306.42
-PROD-0079,Phased methodical initiative Tablets,Smartphones,Apple,474.77,298.52
-PROD-0080,Up-sized local flexibility Tablets,Smartphones,HP,1196.61,620.04
-PROD-0081,Multi-channeled analyzing moratorium Smartphones,Gaming,HP,788.58,402.2
-PROD-0082,Ergonomic fresh-thinking concept Portáteis,Acessórios,Logitech,1451.48,933.66
-PROD-0083,Synchronized system-worthy standardization TVs,Tablets,Xiaomi,412.49,260.77
-PROD-0084,Polarized reciprocal access Smartphones,Tablets,Nintendo,1605.89,1133.86
-PROD-0085,Right-sized zero tolerance standardization Wearables,Smartphones,Apple,320.61,242.71
-PROD-0086,Assimilated secondary collaboration Portáteis,Gaming,Microsoft,511.09,300.62
-PROD-0087,Monitored discrete Graphic Interface Wearables,TVs,Dell,867.74,638.72
-PROD-0088,Monitored client-server synergy Tablets,Wearables,Microsoft,1694.75,879.19
-PROD-0089,Open-architected cohesive extranet Wearables,Smartphones,Microsoft,364.6,227.71
-PROD-0090,Robust logistical middleware Gaming,Smartphones,Dell,195.13,146.75
-PROD-0091,Polarized multimedia strategy Tablets,Acessórios,Lenovo,1008.56,721.62
-PROD-0092,Virtual explicit challenge Smartphones,Smartphones,Samsung,1098.5,606.02
-PROD-0093,Self-enabling background utilization Gaming,Wearables,Logitech,434.93,291.7
-PROD-0094,Cross-platform directional focus group Tablets,Acessórios,Nintendo,833.75,598.46
-PROD-0095,Enterprise-wide exuding toolset Wearables,Wearables,Dell,747.43,503.65
-PROD-0096,Configurable logistical synergy Smartphones,TVs,HP,952.97,744.23
-PROD-0097,Customizable foreground analyzer TVs,Wearables,Xiaomi,1081.45,627.65
-PROD-0098,Fundamental intermediate interface Gaming,Gaming,Logitech,1272.88,756.33
-PROD-0099,Monitored tangible analyzer Portáteis,Gaming,Nintendo,1277.58,892.21
-PROD-0100,Public-key bottom-line productivity Portáteis,Gaming,Logitech,491.5,286.75
-PROD-0101,Persevering static hardware Wearables,Gaming,Logitech,1383.42,785.8
-PROD-0102,Front-line bottom-line methodology Wearables,Gaming,Samsung,1147.72,712.53
-PROD-0103,Decentralized demand-driven flexibility TVs,Portáteis,Xiaomi,638.37,457.4
-PROD-0104,Decentralized maximized extranet Tablets,Acessórios,Nintendo,722.41,554.09
-PROD-0105,Centralized static groupware Gaming,Acessórios,LG,205.84,163.54
-PROD-0106,Front-line systemic product Tablets,Gaming,Microsoft,33.57,25.86
-PROD-0107,Streamlined tangible superstructure Tablets,Gaming,Samsung,658.87,505.27
-PROD-0108,Monitored user-facing encryption Acessórios,Smartphones,HP,90.11,65.41
-PROD-0109,Customer-focused well-modulated contingency Smartphones,Acessórios,Lenovo,977.31,712.44
-PROD-0110,Innovative optimal application Smartphones,Smartphones,HP,830.77,447.37
-PROD-0111,Public-key exuding conglomeration Gaming,Tablets,Dell,332.54,185.46
-PROD-0112,Multi-channeled impactful implementation Portáteis,Portáteis,HP,417.62,290.43
-PROD-0113,Diverse even-keeled definition Portáteis,Wearables,Logitech,1114.95,793.56
-PROD-0114,Multi-lateral contextually-based focus group Acessórios,Portáteis,Samsung,1968.25,1190.3
-PROD-0115,Intuitive well-modulated policy Smartphones,Acessórios,Dell,57.26,44.9
-PROD-0116,Reactive explicit open architecture Smartphones,Acessórios,Lenovo,1627.58,1173.79
-PROD-0117,Reactive intermediate framework TVs,Portáteis,Microsoft,397.98,237.13
-PROD-0118,Ameliorated homogeneous matrix TVs,Tablets,HP,1713.36,1280.6
-PROD-0119,Centralized needs-based standardization Acessórios,Wearables,Apple,568.47,428.27
-PROD-0120,Balanced bi-directional implementation TVs,TVs,Apple,189.9,100.83
-PROD-0121,Multi-lateral needs-based hub Gaming,Acessórios,HP,1668.13,1326.71
-PROD-0122,User-centric content-based moderator Portáteis,Smartphones,Dell,281.6,142.74
-PROD-0123,Reverse-engineered client-driven time-frame Wearables,Tablets,Logitech,410.41,249.8
-PROD-0124,Self-enabling clear-thinking function Acessórios,Wearables,Samsung,1570.46,1228.24
-PROD-0125,Versatile human-resource attitude Acessórios,Tablets,JBL,1265.99,844.36
-PROD-0126,Reduced empowering access Gaming,Gaming,Nintendo,315.8,168.25
-PROD-0127,Re-contextualized actuating website Acessórios,Acessórios,LG,103.44,71.99
-PROD-0128,Distributed well-modulated productivity Smartphones,TVs,Logitech,1969.67,1041.47
-PROD-0129,Ergonomic client-driven Graphical User Interface Acessórios,Tablets,Nintendo,1552.95,809.82
-PROD-0130,Assimilated system-worthy service-desk Wearables,Portáteis,Nintendo,1282.68,829.54
-PROD-0131,Versatile intangible functionalities TVs,Acessórios,Apple,1885.51,1407.35
-PROD-0132,Fully-configurable web-enabled alliance Wearables,Gaming,Microsoft,1816.92,1318.44
-PROD-0133,Inverse bi-directional workforce Wearables,Tablets,Apple,789.01,563.05
-PROD-0134,Polarized 24hour Internet solution Gaming,TVs,Dell,1986.96,1178.35
-PROD-0135,Up-sized intermediate benchmark Portáteis,Wearables,Xiaomi,687.18,516.11
-PROD-0136,Face-to-face local collaboration Wearables,Wearables,JBL,969.68,595.47
-PROD-0137,Re-engineered regional Graphic Interface TVs,Portáteis,Lenovo,459.63,267.36
-PROD-0138,Advanced homogeneous help-desk Acessórios,Tablets,Sony,1604.67,846.54
-PROD-0139,Focused high-level pricing structure Wearables,Tablets,Lenovo,406.33,229.86
-PROD-0140,Total empowering open system Smartphones,TVs,JBL,1202.97,829.47
-PROD-0141,Secured web-enabled info-mediaries Tablets,Smartphones,HP,1868.3,1181.79
-PROD-0142,Exclusive mission-critical budgetary management Tablets,Wearables,HP,1699.32,1047.7
-PROD-0143,Organized real-time hierarchy Acessórios,Tablets,Microsoft,1520.41,1210.62
-PROD-0144,Multi-layered bandwidth-monitored task-force Tablets,Portáteis,Sony,1867.74,1409.05
-PROD-0145,Multi-tiered fault-tolerant core Wearables,Acessórios,Apple,143.84,97.15
-PROD-0146,Networked bandwidth-monitored productivity Tablets,Acessórios,LG,1919.88,1223.89
-PROD-0147,Devolved zero tolerance adapter Portáteis,TVs,Sony,467.64,243.78
-PROD-0148,Open-source object-oriented help-desk Smartphones,TVs,JBL,1249.95,715.19
-PROD-0149,Compatible executive approach Wearables,Acessórios,Apple,664.92,351.58
-PROD-0150,Multi-layered modular portal TVs,Smartphones,Logitech,67.02,43.56
-PROD-0151,Extended radical instruction set Portáteis,Portáteis,JBL,518.2,270.65
-PROD-0152,Intuitive clear-thinking matrix Smartphones,Gaming,Sony,1860.94,1276.57
-PROD-0153,Cloned fresh-thinking customer loyalty Gaming,Tablets,Lenovo,465.08,258.36
-PROD-0154,Grass-roots encompassing encryption Portáteis,TVs,Xiaomi,1029.57,784.85
-PROD-0155,Organic multimedia support Wearables,TVs,Dell,283.7,151.33
-PROD-0156,Profound hybrid artificial intelligence Smartphones,Wearables,Xiaomi,807.12,515.34
-PROD-0157,Focused system-worthy process improvement TVs,Acessórios,Nintendo,1662.65,1225.27
-PROD-0158,Mandatory client-server concept Acessórios,Acessórios,JBL,1073.6,631.49
-PROD-0159,Synergistic mission-critical workforce Wearables,Acessórios,Logitech,471.16,241.68
-PROD-0160,Distributed object-oriented moderator TVs,Smartphones,Lenovo,1810.35,1016.54
-PROD-0161,User-centric responsive moratorium Smartphones,Wearables,Xiaomi,1313.36,1041.85
-PROD-0162,User-centric regional structure Portáteis,Gaming,JBL,459.42,240.51
-PROD-0163,Profit-focused coherent framework Smartphones,Smartphones,LG,1186.28,693.15
-PROD-0164,Mandatory dynamic time-frame Tablets,TVs,LG,1042.32,647.95
-PROD-0165,Centralized logistical customer loyalty TVs,Portáteis,Dell,917.18,692.09
-PROD-0166,Future-proofed solution-oriented standardization Portáteis,Acessórios,Dell,31.51,22.47
-PROD-0167,Open-architected modular workforce Acessórios,Smartphones,Samsung,999.63,640.25
-PROD-0168,Organized logistical methodology Gaming,Tablets,LG,861.54,634.08
-PROD-0169,Switchable real-time neural-net Wearables,Acessórios,Nintendo,1365.11,889.99
-PROD-0170,Grass-roots secondary Internet solution Tablets,TVs,Lenovo,1270.03,641.22
-PROD-0171,Diverse composite intranet Tablets,Acessórios,Xiaomi,713.04,371.82
-PROD-0172,Configurable stable concept Tablets,TVs,Nintendo,338.04,238.07
-PROD-0173,Reverse-engineered systematic emulation Tablets,Smartphones,Apple,382.68,282.18
-PROD-0174,Inverse disintermediate extranet Wearables,Portáteis,Sony,1624.28,1211.71
-PROD-0175,De-engineered stable adapter Portáteis,Tablets,JBL,1248.83,897.1
-PROD-0176,Inverse client-server conglomeration Smartphones,TVs,Lenovo,1740.37,1143.19
-PROD-0177,Monitored content-based archive Acessórios,Tablets,LG,1425.11,727.41
-PROD-0178,Public-key content-based standardization Smartphones,Gaming,LG,1036.49,585.21
-PROD-0179,Synergistic context-sensitive product Portáteis,TVs,Nintendo,235.36,129.17
-PROD-0180,Synergistic static flexibility Acessórios,Portáteis,Samsung,817.75,632.89
-PROD-0181,Persevering multimedia budgetary management Portáteis,Acessórios,Nintendo,745.47,592.98
-PROD-0182,Compatible systemic Internet solution Smartphones,Gaming,LG,708.98,556.33
-PROD-0183,Object-based 4thgeneration protocol Gaming,Gaming,Xiaomi,1817.66,1101.84
-PROD-0184,Face-to-face foreground system engine Acessórios,Tablets,Lenovo,1366.98,985.19
-PROD-0185,Integrated fresh-thinking complexity Acessórios,Gaming,Apple,720.69,436.41
-PROD-0186,Business-focused zero-defect installation Portáteis,TVs,Lenovo,851.58,500.58
-PROD-0187,Customizable well-modulated hub Wearables,Smartphones,Nintendo,1209.49,829.1
-PROD-0188,Reduced modular customer loyalty Tablets,Acessórios,Microsoft,1095.04,709.91
-PROD-0189,Universal impactful interface Tablets,Portáteis,LG,1045.66,758.73
-PROD-0190,Ergonomic bi-directional process improvement Acessórios,Tablets,LG,227.04,150.47
-PROD-0191,Business-focused upward-trending algorithm Gaming,Acessórios,Apple,792.79,515.48
-PROD-0192,Open-source didactic Internet solution Acessórios,Acessórios,Dell,1572.29,990.52
-PROD-0193,Persevering 3rdgeneration circuit Tablets,Acessórios,Apple,815.54,409.69
-PROD-0194,Business-focused needs-based archive TVs,Acessórios,HP,378.66,226.55
-PROD-0195,Automated upward-trending ability Smartphones,Tablets,Microsoft,1513.79,805.91
-PROD-0196,Streamlined non-volatile infrastructure Gaming,Wearables,Apple,1593.99,1113.64
-PROD-0197,Expanded next generation benchmark Portáteis,Gaming,Nintendo,1276.04,689.31
-PROD-0198,Persevering foreground orchestration Tablets,Smartphones,Dell,1435.71,728.09
-PROD-0199,Visionary transitional encryption Gaming,Acessórios,Nintendo,938.19,630.89
-PROD-0200,Profound 4thgeneration support Acessórios,Wearables,Samsung,163.43,93.99
-PROD-0201,Synergistic bifurcated projection Smartphones,Acessórios,Xiaomi,1237.85,987.62
-PROD-0202,Profit-focused background budgetary management TVs,Tablets,LG,1838.13,1035.92
-PROD-0203,Multi-layered heuristic support Acessórios,Smartphones,LG,474.01,316.39
-PROD-0204,Exclusive actuating utilization TVs,Portáteis,Nintendo,784.15,490.36
-PROD-0205,User-friendly uniform model Tablets,TVs,Apple,871.67,678.12
-PROD-0206,Advanced human-resource methodology Portáteis,Smartphones,Samsung,1843.1,1043.12
-PROD-0207,Operative reciprocal protocol TVs,Tablets,Samsung,318.1,177.83
-PROD-0208,Phased real-time pricing structure Smartphones,Tablets,Microsoft,245.58,149.97
-PROD-0209,Fundamental analyzing infrastructure Gaming,TVs,Dell,1155.8,900.58
-PROD-0210,Synergistic global extranet TVs,TVs,JBL,1871.07,1160.01
-PROD-0211,Down-sized explicit circuit Gaming,Acessórios,Logitech,1516.42,1104.14
-PROD-0212,Multi-layered next generation support Tablets,Smartphones,Nintendo,1869.45,1367.47
-PROD-0213,De-engineered incremental throughput Portáteis,Acessórios,HP,218.18,170.78
-PROD-0214,Decentralized intermediate open architecture Acessórios,Tablets,Nintendo,94.94,52.94
-PROD-0215,Self-enabling 24/7 website Gaming,Acessórios,JBL,1623.84,895.76
-PROD-0216,Pre-emptive systematic Local Area Network Acessórios,Tablets,JBL,216.82,128.05
-PROD-0217,Monitored mobile emulation Tablets,Portáteis,Sony,335.77,200.34
-PROD-0218,Pre-emptive analyzing Local Area Network Tablets,Portáteis,Samsung,49.29,26.07
-PROD-0219,Programmable tertiary artificial intelligence Wearables,Portáteis,Microsoft,695.45,547.4
-PROD-0220,Enterprise-wide client-driven structure TVs,Portáteis,Sony,939.2,661.42
-PROD-0221,Open-architected solution-oriented forecast Wearables,Wearables,Lenovo,1436.01,1136.22
-PROD-0222,Robust object-oriented website Smartphones,TVs,HP,1905.82,978.35
-PROD-0223,Re-contextualized system-worthy task-force Tablets,Tablets,Apple,1771.58,1404.26
-PROD-0224,Synergized secondary task-force Wearables,Wearables,Nintendo,1840.09,1255.89
-PROD-0225,Team-oriented mission-critical intranet Smartphones,Gaming,Logitech,1396.12,730.12
-PROD-0226,Quality-focused mission-critical knowledgebase Smartphones,Gaming,Samsung,1688.85,971.4
-PROD-0227,Horizontal static leverage Portáteis,Wearables,Sony,1196.78,716.62
-PROD-0228,Programmable didactic Graphical User Interface Smartphones,Gaming,Dell,1307.97,1023.25
-PROD-0229,Right-sized asynchronous emulation Portáteis,Wearables,Xiaomi,259.34,182.06
-PROD-0230,User-centric reciprocal encoding Gaming,Acessórios,Apple,116.09,80.43
-PROD-0231,Fundamental contextually-based algorithm Acessórios,Gaming,LG,1086.57,813.89
-PROD-0232,Expanded directional contingency TVs,Gaming,Nintendo,1059.55,783.22
-PROD-0233,Seamless client-driven installation Wearables,Acessórios,LG,761.64,531.83
-PROD-0234,Polarized logistical interface Tablets,Tablets,LG,1480.99,1147.91
-PROD-0235,Synchronized incremental installation Smartphones,Gaming,HP,574.59,420.5
-PROD-0236,Streamlined dynamic adapter Smartphones,Smartphones,Dell,302.99,202.53
-PROD-0237,Right-sized didactic artificial intelligence TVs,Acessórios,JBL,456.45,296.07
-PROD-0238,User-friendly modular moderator Smartphones,Smartphones,Logitech,608.86,390.01
-PROD-0239,Optional 6thgeneration focus group TVs,Wearables,Logitech,1405.34,1006.77
-PROD-0240,Organized context-sensitive hierarchy Gaming,Tablets,Logitech,565.62,400.49
-PROD-0241,De-engineered zero-defect infrastructure Gaming,Wearables,HP,334.65,244.34
-PROD-0242,Stand-alone discrete middleware Smartphones,Portáteis,Logitech,494.77,279.71
-PROD-0243,Upgradable 5thgeneration architecture Tablets,TVs,Xiaomi,1429.53,1010.54
-PROD-0244,Re-engineered object-oriented functionalities Acessórios,Portáteis,Apple,178.29,141.03
-PROD-0245,Cloned context-sensitive standardization Smartphones,Wearables,Microsoft,1590.84,1158.02
-PROD-0246,Extended local forecast Portáteis,TVs,HP,192.64,119.71
-PROD-0247,De-engineered even-keeled projection TVs,Wearables,Xiaomi,204.46,106.41
-PROD-0248,Intuitive leadingedge conglomeration Gaming,Acessórios,Xiaomi,1106.12,650.34
-PROD-0249,Inverse neutral approach TVs,Acessórios,Sony,688.14,395.01
-PROD-0250,Phased dedicated Graphic Interface Smartphones,Tablets,Nintendo,327.66,197.79
-PROD-0251,Organized context-sensitive open system Smartphones,Portáteis,JBL,1129.01,667.33
-PROD-0252,Centralized 24/7 hardware TVs,Smartphones,Dell,860.79,503.67
-PROD-0253,Enterprise-wide explicit definition Acessórios,Gaming,Apple,189.52,106.85
-PROD-0254,Reverse-engineered methodical middleware Gaming,Smartphones,HP,23.13,16.13
-PROD-0255,Diverse optimizing installation Smartphones,Gaming,Dell,1572.26,1249.69
-PROD-0256,Organized human-resource matrices Tablets,Smartphones,Microsoft,903.2,558.5
-PROD-0257,Mandatory optimizing firmware Tablets,Tablets,Microsoft,66.71,51.46
-PROD-0258,Pre-emptive bandwidth-monitored infrastructure TVs,Gaming,Sony,1695.99,1248.39
-PROD-0259,Sharable scalable workforce Gaming,Portáteis,Sony,556.37,380.19
-PROD-0260,Balanced needs-based open system TVs,Smartphones,JBL,1997.43,1232.97
-PROD-0261,Synergized static adapter Tablets,Gaming,Samsung,1565.85,912.78
-PROD-0262,Multi-channeled 24/7 groupware Smartphones,Portáteis,LG,1473.26,772.55
-PROD-0263,Customer-focused multimedia forecast Acessórios,Gaming,Dell,233.53,133.27
-PROD-0264,Progressive motivating challenge Wearables,Smartphones,Logitech,955.25,649.91
-PROD-0265,Compatible secondary ability Portáteis,Gaming,Xiaomi,483.62,358.64
-PROD-0266,Customizable discrete initiative Smartphones,Portáteis,JBL,1627.64,946.2
-PROD-0267,User-friendly exuding collaboration Tablets,Tablets,Microsoft,577.45,397.65
-PROD-0268,Configurable user-facing portal Wearables,Wearables,Lenovo,1184.52,598.26
-PROD-0269,Upgradable reciprocal secured line TVs,Acessórios,Sony,572.04,367.64
-PROD-0270,Exclusive empowering website Acessórios,Acessórios,Nintendo,469.25,256.61
-PROD-0271,Programmable regional interface Portáteis,Tablets,Samsung,1581.26,923.43
-PROD-0272,Networked context-sensitive collaboration Smartphones,Portáteis,Sony,1445.13,1119.89
-PROD-0273,Total multimedia task-force Wearables,Gaming,Microsoft,1783.7,1359.88
-PROD-0274,Configurable uniform secured line Acessórios,Portáteis,Sony,161.07,102.27
-PROD-0275,De-engineered 3rdgeneration utilization Acessórios,Gaming,Samsung,1836.01,1093.27
-PROD-0276,Advanced web-enabled superstructure Smartphones,TVs,Xiaomi,1762.76,1236.4
-PROD-0277,Vision-oriented client-driven artificial intelligence Portáteis,Tablets,LG,1625.33,976.69
-PROD-0278,Managed bottom-line policy Tablets,Gaming,Logitech,735.62,462.43
-PROD-0279,Customer-focused high-level Internet solution Smartphones,Tablets,Lenovo,1925.2,1328.38
-PROD-0280,Sharable 5thgeneration synergy TVs,TVs,Xiaomi,951.08,675.85
-PROD-0281,Right-sized human-resource matrices Wearables,Gaming,Apple,1423.98,1088.34
-PROD-0282,Integrated 4thgeneration project Gaming,Tablets,Microsoft,1754.32,1153.38
-PROD-0283,Universal regional algorithm TVs,Acessórios,Dell,661.63,466.4
-PROD-0284,Persevering global flexibility Gaming,TVs,LG,1438.11,1062.75
-PROD-0285,Virtual 24/7 task-force Tablets,Acessórios,Nintendo,1492.72,846.97
-PROD-0286,Pre-emptive transitional analyzer Portáteis,Wearables,JBL,1210.71,677.41
-PROD-0287,Mandatory multi-state implementation TVs,Tablets,HP,1437.6,742.34
-PROD-0288,Organized actuating capacity Tablets,Portáteis,Xiaomi,329.39,262.37
-PROD-0289,Vision-oriented multi-tasking algorithm TVs,Gaming,Xiaomi,276.01,171.92
-PROD-0290,Optimized global methodology Acessórios,Smartphones,Logitech,48.51,29.98
-PROD-0291,Business-focused mobile toolset TVs,Wearables,Dell,1625.28,937.45
-PROD-0292,Digitized zero administration neural-net Wearables,Smartphones,Xiaomi,567.41,435.09
-PROD-0293,Reverse-engineered regional support Gaming,Wearables,Nintendo,816.12,408.54
-PROD-0294,Profound mobile data-warehouse Tablets,Gaming,Sony,1130.78,710.06
-PROD-0295,Cross-platform neutral Internet solution Smartphones,Wearables,Xiaomi,552.01,289.14
-PROD-0296,Self-enabling asynchronous support Portáteis,Acessórios,Samsung,1206.42,844.98
-PROD-0297,Adaptive bifurcated database Wearables,Portáteis,Nintendo,1032.08,822.88
-PROD-0298,Stand-alone well-modulated ability Acessórios,Smartphones,Microsoft,1771.12,1209.51
-PROD-0299,Sharable optimal website Smartphones,Acessórios,LG,1801.59,1120.28
-PROD-0300,Persistent reciprocal leverage TVs,TVs,Logitech,1082.35,696.61
-PROD-0301,Implemented hybrid workforce Gaming,Wearables,LG,1562.78,1195.48
-PROD-0302,Profit-focused clear-thinking policy Smartphones,Portáteis,HP,110.36,79.8
-PROD-0303,Ameliorated radical matrix Tablets,Portáteis,Nintendo,671.1,395.29
-PROD-0304,Pre-emptive bifurcated framework Gaming,Wearables,Xiaomi,1649.93,1094.82
-PROD-0305,Distributed non-volatile standardization TVs,Acessórios,LG,1855.68,1049.08
-PROD-0306,Right-sized background challenge Smartphones,Gaming,Xiaomi,651.79,494.26
-PROD-0307,Networked national productivity Gaming,Tablets,Dell,1360.78,853.22
-PROD-0308,Seamless composite Graphic Interface Acessórios,Portáteis,Apple,1540.31,830.88
-PROD-0309,Proactive secondary intranet Acessórios,TVs,Microsoft,775.94,586.79
-PROD-0310,Total bottom-line infrastructure Portáteis,Wearables,Samsung,282.15,206.44
-PROD-0311,Reverse-engineered multi-state strategy Tablets,Portáteis,JBL,128.81,76.35
-PROD-0312,Polarized motivating time-frame Wearables,Acessórios,Logitech,185.06,139.31
-PROD-0313,Adaptive exuding protocol Portáteis,Tablets,Dell,1472.39,862.22
-PROD-0314,Assimilated background system engine Tablets,Tablets,HP,1145.46,612.97
-PROD-0315,Self-enabling even-keeled ability Tablets,Wearables,JBL,848.13,550.14
-PROD-0316,Cross-group tangible encoding Tablets,TVs,Lenovo,816.64,626.14
-PROD-0317,Optional global success Wearables,TVs,Dell,223.9,114.29
-PROD-0318,Balanced optimizing support Gaming,Acessórios,Logitech,606.86,340.27
-PROD-0319,Phased contextually-based alliance Portáteis,Tablets,Lenovo,1849.03,988.5
-PROD-0320,Triple-buffered analyzing complexity Acessórios,Portáteis,Lenovo,1061.66,578.13
-PROD-0321,Assimilated user-facing core Smartphones,Acessórios,LG,1378.38,945.87
-PROD-0322,Automated 3rdgeneration initiative Gaming,Gaming,LG,1723.91,1011.12
-PROD-0323,Optional interactive ability Tablets,Acessórios,Samsung,1374.14,823.46
-PROD-0324,Synergized interactive functionalities Portáteis,Portáteis,Microsoft,1259.83,889.33
-PROD-0325,Managed content-based portal Gaming,Smartphones,Microsoft,1083.38,736.98
-PROD-0326,Face-to-face intangible knowledge user Acessórios,Tablets,Sony,1045.36,609.84
-PROD-0327,Advanced web-enabled adapter Smartphones,Tablets,Samsung,1357.34,747.32
-PROD-0328,Customizable upward-trending strategy Gaming,Smartphones,Xiaomi,187.32,114.29
-PROD-0329,Intuitive intangible Internet solution TVs,TVs,JBL,1447.93,984.22
-PROD-0330,Vision-oriented tertiary firmware Portáteis,Smartphones,Lenovo,464.69,344.18
-PROD-0331,Persistent context-sensitive projection Gaming,Acessórios,Logitech,325.35,195.52
-PROD-0332,Adaptive uniform model Gaming,Portáteis,Xiaomi,1346.97,837.04
-PROD-0333,Reduced reciprocal contingency Wearables,Portáteis,Apple,672.69,386.14
-PROD-0334,Expanded non-volatile migration TVs,Portáteis,Apple,274.04,182.67
-PROD-0335,Object-based system-worthy extranet Smartphones,Acessórios,HP,1905.75,1313.18
-PROD-0336,Implemented background hardware Portáteis,Wearables,Nintendo,1781.25,1144.29
-PROD-0337,Automated composite moratorium Portáteis,Acessórios,Samsung,1569.56,1220.13
-PROD-0338,Assimilated incremental budgetary management Wearables,Smartphones,Apple,643.52,497.67
-PROD-0339,Profit-focused bottom-line paradigm Tablets,Gaming,Dell,1317.08,1032.11
-PROD-0340,Automated composite functionalities Wearables,Tablets,Dell,371.94,272.58
-PROD-0341,Right-sized executive hardware TVs,Gaming,Xiaomi,417.24,219.76
-PROD-0342,Future-proofed demand-driven website Wearables,Wearables,Logitech,1975.96,1144.16
-PROD-0343,Programmable bifurcated toolset TVs,Tablets,Xiaomi,86.45,57.15
-PROD-0344,Reactive fresh-thinking frame Wearables,Wearables,Samsung,1700.01,1115.42
-PROD-0345,Advanced holistic conglomeration Gaming,TVs,Sony,640.43,472.21
-PROD-0346,Reactive needs-based initiative Acessórios,Portáteis,Apple,278.92,200.32
-PROD-0347,Persevering tertiary projection Acessórios,TVs,Nintendo,1797.09,1141.08
-PROD-0348,Configurable fault-tolerant synergy Acessórios,Smartphones,HP,400.94,294.26
-PROD-0349,Persevering radical policy Gaming,Smartphones,LG,1049.3,589.08
-PROD-0350,Re-contextualized tertiary encryption Tablets,Acessórios,LG,1664.55,942.7
-PROD-0351,Sharable scalable productivity Tablets,TVs,Logitech,528.56,396.78
-PROD-0352,Proactive 4thgeneration circuit Portáteis,Acessórios,Dell,944.57,740.14
-PROD-0353,Business-focused discrete functionalities Portáteis,TVs,Nintendo,1099.3,854.36
-PROD-0354,Phased bandwidth-monitored interface Gaming,Acessórios,Lenovo,108.35,60.4
-PROD-0355,Virtual executive frame Tablets,Smartphones,Logitech,295.95,192.33
-PROD-0356,Multi-lateral next generation methodology Acessórios,Tablets,Logitech,1324.78,1009.03
-PROD-0357,Multi-tiered user-facing intranet Wearables,Smartphones,Apple,1764.85,1054.83
-PROD-0358,Diverse needs-based paradigm Tablets,TVs,JBL,1673.34,1277.96
-PROD-0359,Seamless secondary initiative Gaming,TVs,Apple,287.72,227.9
-PROD-0360,Multi-layered demand-driven artificial intelligence Acessórios,Acessórios,Lenovo,351.54,201.69
-PROD-0361,Fundamental bottom-line implementation Smartphones,Gaming,Logitech,164.5,93.57
-PROD-0362,Expanded responsive orchestration Gaming,Gaming,LG,1670.59,1062.08
-PROD-0363,Devolved grid-enabled matrix Gaming,Gaming,Apple,775.55,573.98
-PROD-0364,Total full-range hardware Portáteis,Portáteis,Lenovo,1863.37,1445.49
-PROD-0365,Intuitive multi-tasking data-warehouse TVs,Portáteis,Samsung,46.03,24.16
-PROD-0366,Decentralized multi-tasking workforce Smartphones,Wearables,Nintendo,146.84,93.64
-PROD-0367,Reverse-engineered real-time system engine Acessórios,Tablets,Microsoft,1817.19,1002.46
-PROD-0368,Stand-alone maximized utilization Tablets,TVs,Xiaomi,1291.24,657.89
-PROD-0369,Optimized system-worthy model Tablets,TVs,LG,1559.41,970.51
-PROD-0370,Synergistic upward-trending infrastructure Wearables,Smartphones,Apple,81.63,52.72
-PROD-0371,Cloned web-enabled portal Wearables,Smartphones,Nintendo,1348.61,710.39
-PROD-0372,Progressive methodical pricing structure Portáteis,Portáteis,Dell,1062.14,769.7
-PROD-0373,Versatile background parallelism Portáteis,TVs,Apple,768.58,477.21
-PROD-0374,Profit-focused leadingedge capacity Acessórios,Smartphones,Nintendo,281.36,182.62
-PROD-0375,Right-sized radical matrices Tablets,Acessórios,LG,679.03,349.64
-PROD-0376,Adaptive bifurcated architecture Portáteis,Gaming,Logitech,1821.49,943.42
-PROD-0377,Compatible explicit throughput Gaming,Tablets,JBL,1423.92,860.95
-PROD-0378,User-friendly leadingedge matrices Gaming,Wearables,LG,1679.0,1255.57
-PROD-0379,Down-sized full-range data-warehouse Smartphones,Acessórios,LG,1084.26,838.19
-PROD-0380,Customer-focused analyzing adapter Tablets,Wearables,Xiaomi,413.96,298.27
-PROD-0381,Networked hybrid architecture TVs,Tablets,Xiaomi,1987.78,1243.28
-PROD-0382,Digitized logistical budgetary management TVs,Wearables,Lenovo,32.62,25.1
-PROD-0383,Customizable bifurcated matrices Wearables,Wearables,Nintendo,1618.84,822.46
-PROD-0384,Cloned zero-defect data-warehouse Tablets,Portáteis,Lenovo,559.47,364.57
-PROD-0385,Versatile incremental policy Wearables,Tablets,Lenovo,371.84,242.34
-PROD-0386,Customer-focused bi-directional utilization TVs,Tablets,Apple,1441.59,1023.05
-PROD-0387,User-friendly dedicated model Tablets,TVs,Logitech,1413.09,1007.5
-PROD-0388,Switchable 3rdgeneration product Acessórios,Tablets,Sony,889.05,635.04
-PROD-0389,Profit-focused tertiary budgetary management Wearables,Portáteis,Microsoft,579.72,423.58
-PROD-0390,Persistent encompassing encoding Gaming,Portáteis,JBL,1358.39,885.31
-PROD-0391,Assimilated motivating methodology Tablets,TVs,Dell,970.7,602.93
-PROD-0392,Extended tangible projection Portáteis,TVs,Nintendo,394.82,297.5
-PROD-0393,Reduced motivating extranet Tablets,TVs,Xiaomi,1941.98,1461.5
-PROD-0394,Multi-lateral real-time architecture Gaming,Gaming,JBL,902.82,595.27
-PROD-0395,Visionary zero-defect paradigm Acessórios,Tablets,Microsoft,1070.11,800.7
-PROD-0396,Decentralized explicit emulation Gaming,Tablets,LG,1064.06,627.45
-PROD-0397,Robust value-added hardware Gaming,Gaming,Samsung,1548.34,781.81
-PROD-0398,Persevering explicit secured line Gaming,Acessórios,Lenovo,959.34,682.93
-PROD-0399,Integrated human-resource extranet Tablets,Gaming,Lenovo,1049.15,719.81
-PROD-0400,Horizontal tertiary analyzer Acessórios,Acessórios,Apple,1455.85,800.61
-PROD-0401,Multi-tiered composite leverage Portáteis,Acessórios,Xiaomi,184.05,98.85
-PROD-0402,Innovative object-oriented protocol Acessórios,Wearables,LG,1348.27,857.72
-PROD-0403,Up-sized 24/7 success TVs,TVs,Apple,172.84,114.54
-PROD-0404,Assimilated user-facing info-mediaries Gaming,Gaming,Logitech,783.04,406.66
-PROD-0405,Polarized reciprocal intranet Acessórios,Smartphones,LG,1878.91,1238.73
-PROD-0406,Face-to-face composite functionalities Acessórios,Gaming,LG,833.93,458.66
-PROD-0407,Integrated mobile leverage Wearables,Tablets,Lenovo,456.18,360.87
-PROD-0408,Profound local process improvement Acessórios,TVs,LG,1368.24,784.29
-PROD-0409,Switchable reciprocal moratorium Tablets,Portáteis,Lenovo,1304.17,801.53
-PROD-0410,Proactive composite archive TVs,Tablets,Logitech,1242.5,964.03
-PROD-0411,Cloned secondary middleware Acessórios,Portáteis,LG,1042.76,684.54
-PROD-0412,Ameliorated high-level definition Acessórios,Smartphones,Samsung,1962.79,1341.67
-PROD-0413,Grass-roots systematic workforce Acessórios,Smartphones,Microsoft,1896.52,1413.55
-PROD-0414,Enhanced 4thgeneration service-desk Wearables,Smartphones,Dell,1197.92,677.4
-PROD-0415,Proactive web-enabled standardization Wearables,Gaming,Sony,1854.84,1352.12
-PROD-0416,Extended stable capability Wearables,TVs,Nintendo,161.24,108.54
-PROD-0417,Configurable analyzing info-mediaries Gaming,Acessórios,Microsoft,1044.46,623.49
-PROD-0418,Programmable dynamic access Portáteis,Smartphones,Samsung,299.16,151.25
-PROD-0419,Reduced user-facing conglomeration TVs,Acessórios,Xiaomi,1848.08,1145.82
-PROD-0420,Object-based mission-critical toolset TVs,Gaming,Lenovo,854.13,494.96
-PROD-0421,Organic global portal Portáteis,Gaming,Dell,962.19,560.87
-PROD-0422,Open-architected maximized hierarchy Gaming,Acessórios,Apple,431.9,319.14
-PROD-0423,Reverse-engineered executive emulation Portáteis,Portáteis,Xiaomi,941.04,579.71
-PROD-0424,Monitored user-facing pricing structure Gaming,Wearables,JBL,1643.57,1129.45
-PROD-0425,Organic scalable throughput TVs,Tablets,Nintendo,1982.5,1578.94
-PROD-0426,Universal solution-oriented intranet Acessórios,Tablets,Xiaomi,367.11,274.44
-PROD-0427,Right-sized systematic process improvement Gaming,Smartphones,HP,1781.84,1335.54
-PROD-0428,Optimized solution-oriented open architecture Smartphones,Acessórios,LG,833.94,513.78
-PROD-0429,Digitized interactive forecast Tablets,Tablets,Lenovo,743.9,515.25
-PROD-0430,De-engineered systematic firmware Gaming,TVs,JBL,1526.81,818.1
-PROD-0431,Profound zero-defect budgetary management Gaming,Portáteis,Microsoft,1367.23,942.77
-PROD-0432,Multi-channeled web-enabled utilization Portáteis,Wearables,LG,1914.61,1177.34
-PROD-0433,Re-contextualized encompassing solution Portáteis,Wearables,HP,1805.75,1077.52
-PROD-0434,Mandatory empowering open architecture Acessórios,Gaming,JBL,694.75,357.59
-PROD-0435,Mandatory object-oriented installation Wearables,Gaming,Xiaomi,868.38,522.23
-PROD-0436,Advanced multimedia focus group Tablets,Tablets,Samsung,1893.28,1132.35
-PROD-0437,Universal tertiary strategy Tablets,Gaming,Lenovo,1168.39,803.77
-PROD-0438,Exclusive leadingedge circuit Tablets,Gaming,LG,1114.98,606.18
-PROD-0439,Quality-focused modular pricing structure TVs,Portáteis,JBL,1581.1,1250.6
-PROD-0440,Object-based upward-trending collaboration Wearables,Wearables,Microsoft,1186.71,926.13
-PROD-0441,Grass-roots actuating matrix TVs,Tablets,Samsung,315.73,217.84
-PROD-0442,Monitored full-range encoding Gaming,TVs,Lenovo,1451.04,1145.55
-PROD-0443,Re-contextualized high-level framework TVs,Wearables,Logitech,798.46,441.98
-PROD-0444,Managed scalable structure Smartphones,Acessórios,Lenovo,337.52,174.99
-PROD-0445,Ergonomic user-facing capacity Smartphones,Tablets,Samsung,1845.79,1006.42
-PROD-0446,Enhanced multimedia function Acessórios,Portáteis,Logitech,602.33,404.49
-PROD-0447,Decentralized didactic orchestration Tablets,Acessórios,LG,89.22,60.21
-PROD-0448,Business-focused 3rdgeneration structure Smartphones,TVs,Microsoft,828.79,589.24
-PROD-0449,Configurable client-server protocol Wearables,Smartphones,JBL,1303.12,785.75
-PROD-0450,Focused responsive migration Acessórios,Acessórios,HP,159.03,89.27
-PROD-0451,Visionary secondary access Portáteis,Gaming,Xiaomi,1828.14,1291.48
-PROD-0452,Mandatory discrete capacity Gaming,TVs,Logitech,1409.89,724.76
-PROD-0453,Realigned full-range encoding Acessórios,Smartphones,Lenovo,986.94,701.15
-PROD-0454,Diverse multi-tasking workforce Smartphones,Gaming,Samsung,1437.52,1040.05
-PROD-0455,Object-based national ability Wearables,Wearables,JBL,1775.6,1121.95
-PROD-0456,Focused user-facing success Wearables,Smartphones,Microsoft,33.58,17.31
-PROD-0457,Persistent systemic website TVs,Tablets,Dell,1474.54,879.94
-PROD-0458,Decentralized tangible strategy Portáteis,TVs,Logitech,39.04,27.37
-PROD-0459,Secured attitude-oriented info-mediaries Portáteis,Wearables,JBL,1365.17,839.1
-PROD-0460,Organized web-enabled open architecture Portáteis,Smartphones,JBL,542.1,386.61
-PROD-0461,Open-architected 24/7 initiative Tablets,Gaming,HP,880.34,646.38
-PROD-0462,Universal intangible open system TVs,Acessórios,Dell,631.42,331.67
-PROD-0463,Extended 24/7 hub Tablets,Wearables,Dell,196.24,135.78
-PROD-0464,Reverse-engineered transitional moratorium Wearables,Wearables,JBL,630.39,355.38
-PROD-0465,Down-sized homogeneous attitude Gaming,Gaming,Samsung,1069.89,777.91
-PROD-0466,Exclusive local implementation Wearables,TVs,Nintendo,929.19,708.74
-PROD-0467,Future-proofed national database Acessórios,TVs,LG,1401.58,937.34
-PROD-0468,Front-line full-range contingency Acessórios,Acessórios,Logitech,1101.87,666.62
-PROD-0469,Visionary secondary firmware Smartphones,TVs,Sony,146.74,75.98
-PROD-0470,Organic zero-defect website Gaming,Acessórios,HP,772.18,600.68
-PROD-0471,Multi-channeled 3rdgeneration artificial intelligence Portáteis,Gaming,Samsung,386.96,209.59
-PROD-0472,Switchable dynamic neural-net Wearables,Portáteis,Dell,1636.37,1247.19
-PROD-0473,Synergized needs-based success Smartphones,Portáteis,Microsoft,827.96,615.1
-PROD-0474,Inverse composite emulation Portáteis,TVs,Dell,1920.88,1137.73
-PROD-0475,Virtual encompassing pricing structure TVs,Acessórios,Sony,546.06,304.85
-PROD-0476,Networked needs-based Graphical User Interface Tablets,Smartphones,Dell,308.8,236.91
-PROD-0477,Multi-layered systemic alliance Tablets,TVs,Sony,1125.71,874.19
-PROD-0478,Enterprise-wide optimal project Acessórios,Wearables,Xiaomi,613.12,453.91
-PROD-0479,Devolved discrete knowledgebase Tablets,Acessórios,JBL,1524.23,1141.08
-PROD-0480,Proactive real-time attitude Portáteis,Tablets,JBL,423.71,275.39
-PROD-0481,User-centric motivating orchestration Smartphones,Gaming,Sony,203.68,144.62
-PROD-0482,Automated uniform service-desk TVs,Tablets,LG,1545.52,1233.51
-PROD-0483,Automated systemic extranet Gaming,TVs,Samsung,1952.6,1232.2
-PROD-0484,Exclusive upward-trending data-warehouse Acessórios,Gaming,Dell,102.69,56.91
-PROD-0485,Integrated interactive policy Acessórios,Tablets,Apple,1662.54,1260.36
-PROD-0486,Face-to-face secondary knowledgebase Wearables,Tablets,Lenovo,993.34,704.79
-PROD-0487,Polarized secondary approach Acessórios,Acessórios,Xiaomi,483.9,242.75
-PROD-0488,Digitized mission-critical toolset TVs,Acessórios,Sony,1108.46,782.76
-PROD-0489,Stand-alone mission-critical encoding Smartphones,Acessórios,LG,1234.13,757.83
-PROD-0490,Customer-focused discrete matrix Gaming,Gaming,Nintendo,1000.87,539.59
-PROD-0491,Distributed fresh-thinking initiative Portáteis,Smartphones,Lenovo,1778.02,987.25
-PROD-0492,Vision-oriented directional implementation Wearables,Acessórios,LG,817.21,465.47
-PROD-0493,Innovative even-keeled function Gaming,Smartphones,Xiaomi,1938.04,1450.36
-PROD-0494,Enterprise-wide background algorithm Acessórios,Portáteis,Samsung,1498.3,1016.97
-PROD-0495,Profit-focused modular interface Acessórios,Gaming,Sony,1851.2,1143.06
-PROD-0496,Stand-alone modular analyzer Portáteis,Portáteis,Xiaomi,593.16,424.04
-PROD-0497,Profit-focused contextually-based middleware Acessórios,Smartphones,Sony,422.41,306.56
-PROD-0498,Ameliorated 5thgeneration website Portáteis,Portáteis,Nintendo,124.25,82.2
-PROD-0499,Synergized user-facing application Wearables,Wearables,Samsung,468.01,252.67
-PROD-0500,Customer-focused contextually-based process improvement Smartphones,TVs,Apple,1321.87,980.21
+ID_Produto,Nome_Produto,Marca,Categoria,Custo_Unitario,Preco_Unitario
+PROD-0001,Logitech Leve Unidade Sensor,Logitech,Segurança,257.21,319.04
+PROD-0002,Samsung Eficiente Disco Externo,Samsung,Armazenamento,222.79,252.02
+PROD-0003,Dyson Eficiente Acessório Iluminação,Dyson,Smart Home,566.52,667.78
+PROD-0004,Dyson Novo Módulo Auscultadores,Dyson,Áudio e Vídeo,297.35,361.71
+PROD-0005,Dyson Essencial Máquina Rato,Dyson,Periféricos,53.66,67.02
+PROD-0006,Philips Sem Fios Rato,Philips,Periféricos,128.61,157.64
+PROD-0007,Canon Leve Máquina de Lavar,Canon,Eletrodomésticos,827.62,933.72
+PROD-0008,Samsung Moderno Iluminação,Samsung,Smart Home,591.5,727.4
+PROD-0009,LG Leve Dispositivo Smartphone,LG,Smartphones,1267.98,1586.1
+PROD-0010,Apple Versátil Câmara,Apple,Segurança,1003.49,1365.59
+PROD-0011,Microsoft Versátil Aspirador,Microsoft,Eletrodomésticos,85.48,102.51
+PROD-0012,TechCorp Avançado Disco Externo,TechCorp,Armazenamento,95.15,112.27
+PROD-0013,Dell Avançado Painel Segurança,Dell,Segurança,774.74,983.34
+PROD-0014,ElectroZen Multifunções Componente Tablet,ElectroZen,Eletrodomésticos,426.46,492.78
+PROD-0015,Philips Versátil Central Impressora,Philips,Impressoras,483.17,635.44
+PROD-0016,Bosch Compacto Máquina Frigorífico,Bosch,Eletrodomésticos,701.54,856.62
+PROD-0017,Razer Eficiente Monitor,Razer,Periféricos,226.26,263.44
+PROD-0018,FuturaSystems Silencioso Teclado,FuturaSystems,Periféricos,235.88,248.12
+PROD-0019,Lenovo Moderno Módulo Webcam,Lenovo,Periféricos,80.36,95.52
+PROD-0020,Microsoft Avançado Máquina TV,Microsoft,Áudio e Vídeo,116.84,132.85
+PROD-0021,InnovateX Ultra Webcam,InnovateX,Periféricos,52.72,63.54
+PROD-0022,Dell Ergonómico Kit Tablet,Dell,Wearables,218.41,269.9
+PROD-0023,Microsoft Eficiente Componente Colunas,Microsoft,Áudio e Vídeo,392.5,466.31
+PROD-0024,Xiaomi Robusto Ferramenta Projetor,Xiaomi,Periféricos,84.14,97.13
+PROD-0025,Xiaomi Eficiente Portátil,Xiaomi,Portáteis,1716.98,2183.23
+PROD-0026,Canon Elegante Portátil,Canon,Portáteis,1410.4,1928.11
+PROD-0027,ElectroZen Digital Drone,ElectroZen,Eletrónica,45.19,48.31
+PROD-0028,Xiaomi Versátil Sistema Iluminação,Xiaomi,Smart Home,156.02,186.1
+PROD-0029,Canon Pequeno Projetor,Canon,Periféricos,170.56,209.1
+PROD-0030,Razer Económico Componente Projetor,Razer,Periféricos,369.71,453.92
+PROD-0031,LG Portátil Dispositivo Aspirador,LG,Portáteis,717.12,835.57
+PROD-0032,Samsung Básico Portátil,Samsung,Portáteis,743.52,913.66
+PROD-0033,Lenovo Ultra Forno,Lenovo,Eletrodomésticos,822.66,1058.27
+PROD-0034,ElectroZen Multifunções Aparelho Portátil,ElectroZen,Portáteis,865.91,1031.15
+PROD-0035,ElectroZen Ultra Módulo Smartphone,ElectroZen,Smartphones,1396.75,1893.51
+PROD-0036,InnovateX Robusto Câmara,InnovateX,Segurança,865.77,1080.09
+PROD-0037,Microsoft Multifunções Painel Smartwatch,Microsoft,Wearables,618.71,815.29
+PROD-0038,Dell Básico Ferramenta Máquina de Café,Dell,Eletrodomésticos,424.54,560.26
+PROD-0039,Samsung Sem Fios Unidade Monitor,Samsung,Periféricos,45.27,49.22
+PROD-0040,Razer Portátil TV,Razer,Portáteis,628.65,902.35
+PROD-0041,Logitech Portátil Monitor,Logitech,Portáteis,1321.31,1650.65
+PROD-0042,Sony Multifunções Tablet,Sony,Smart Home,566.86,730.75
+PROD-0043,FuturaSystems Pequeno Rato,FuturaSystems,Periféricos,201.09,222.98
+PROD-0044,Xiaomi Digital Acessório Máquina de Lavar,Xiaomi,Eletrodomésticos,503.54,581.36
+PROD-0045,Canon Eficiente Drone,Canon,Smartphones,280.19,335.64
+PROD-0046,Lenovo Versátil Unidade Desktop,Lenovo,Desktops,1509.63,1794.92
+PROD-0047,Microsoft Novo Sistema Forno,Microsoft,Eletrodomésticos,253.57,318.91
+PROD-0048,Philips Potente Máquina de Café,Philips,Eletrodomésticos,276.76,313.48
+PROD-0049,InnovateX Essencial Segurança,InnovateX,Segurança,884.63,1154.11
+PROD-0050,TechCorp Silencioso Máquina Webcam,TechCorp,Periféricos,246.33,297.87
+PROD-0051,LG Portátil Aparelho Console,LG,Portáteis,1401.07,1766.6
+PROD-0052,FuturaSystems Elegante Máquina Máquina de Lavar,FuturaSystems,Eletrodomésticos,647.58,761.71
+PROD-0053,Canon Novo Componente Câmara,Canon,Segurança,824.03,1095.31
+PROD-0054,Canon Inteligente Unidade Segurança,Canon,Segurança,634.68,762.53
+PROD-0055,ElectroZen Conectado Aparelho Projetor,ElectroZen,Periféricos,191.7,216.35
+PROD-0056,Lenovo Elegante Monitor,Lenovo,Periféricos,110.85,138.45
+PROD-0057,GlobalTech Novo Componente Segurança,GlobalTech,Segurança,578.51,674.07
+PROD-0058,HP Ergonómico Painel Segurança,HP,Segurança,172.01,203.15
+PROD-0059,Philips Premium Ferramenta Micro-ondas,Philips,Eletrodomésticos,420.28,513.44
+PROD-0060,GlobalTech Leve Componente Console,GlobalTech,Wearables,877.78,1138.47
+PROD-0061,Dyson Pequeno Unidade Monitor,Dyson,Periféricos,237.3,259.61
+PROD-0062,Razer Digital Dispositivo Robô,Razer,Smart Home,350.79,387.28
+PROD-0063,InnovateX Moderno Painel Sensor,InnovateX,Segurança,465.37,624.71
+PROD-0064,TechCorp Silencioso Central Máquina de Lavar,TechCorp,Eletrodomésticos,226.05,248.82
+PROD-0065,TechCorp Conectado Máquina TV,TechCorp,Áudio e Vídeo,378.85,470.92
+PROD-0066,LG Pequeno Componente Aspirador,LG,Eletrodomésticos,586.64,728.18
+PROD-0067,Canon Novo Painel Máquina de Café,Canon,Eletrodomésticos,535.79,720.81
+PROD-0068,Sony Potente Smartwatch,Sony,Wearables,631.51,780.83
+PROD-0069,Lenovo Ultra Módulo Auscultadores,Lenovo,Áudio e Vídeo,200.87,213.71
+PROD-0070,ElectroZen Premium Ferramenta Iluminação,ElectroZen,Smart Home,392.26,461.63
+PROD-0071,Philips Sem Fios Unidade Colunas,Philips,Áudio e Vídeo,137.49,169.36
+PROD-0072,InnovateX Eficiente Frigorífico,InnovateX,Eletrodomésticos,700.56,813.34
+PROD-0073,LG Portátil Rato,LG,Portáteis,1099.82,1285.68
+PROD-0074,Logitech Multifunções Robô,Logitech,Smart Home,733.45,837.81
+PROD-0075,HP Ultra Máquina de Lavar,HP,Eletrodomésticos,103.18,132.13
+PROD-0076,Philips Leve Micro-ondas,Philips,Eletrodomésticos,480.54,624.03
+PROD-0077,FuturaSystems Leve Iluminação,FuturaSystems,Smart Home,182.71,205.94
+PROD-0078,Razer Conectado Acessório Colunas,Razer,Áudio e Vídeo,362.56,417.13
+PROD-0079,FuturaSystems Moderno Kit Monitor,FuturaSystems,Periféricos,343.1,422.35
+PROD-0080,LG Robusto Módulo Teclado,LG,Periféricos,283.9,336.82
+PROD-0081,Canon Premium Kit Desktop,Canon,Desktops,1199.57,1640.95
+PROD-0082,Razer Robusto Aparelho Console,Razer,Eletrodomésticos,605.64,749.93
+PROD-0083,FuturaSystems Robusto Iluminação,FuturaSystems,Smart Home,573.34,708.17
+PROD-0084,Microsoft Essencial Central Monitor,Microsoft,Periféricos,317.62,336.34
+PROD-0085,ElectroZen Portátil Colunas,ElectroZen,Portáteis,1261.75,1568.63
+PROD-0086,InnovateX Elegante Componente Webcam,InnovateX,Periféricos,109.92,119.4
+PROD-0087,Apple Elegante Central Webcam,Apple,Periféricos,149.94,180.58
+PROD-0088,Philips Versátil Tablet,Philips,Impressoras,819.94,1104.57
+PROD-0089,FuturaSystems Avançado Módulo Auscultadores,FuturaSystems,Áudio e Vídeo,69.25,83.78
+PROD-0090,Logitech Multifunções Kit Robô,Logitech,Smart Home,335.66,396.31
+PROD-0091,Lenovo Robusto Console,Lenovo,Armazenamento,378.88,437.59
+PROD-0092,Canon Multifunções Painel TV,Canon,Áudio e Vídeo,361.36,435.65
+PROD-0093,Dyson Digital Webcam,Dyson,Periféricos,150.25,164.48
+PROD-0094,Logitech Leve Máquina de Café,Logitech,Eletrodomésticos,559.02,719.76
+PROD-0095,Microsoft Básico Smartphone,Microsoft,Smartphones,1364.57,1597.64
+PROD-0096,ElectroZen Pequeno Teclado,ElectroZen,Periféricos,220.51,267.69
+PROD-0097,InnovateX Robusto Kit Teclado,InnovateX,Periféricos,280.82,316.91
+PROD-0098,Philips Ergonómico Central Drone,Philips,Redes,675.96,745.06
+PROD-0099,Lenovo Essencial Aparelho Micro-ondas,Lenovo,Eletrodomésticos,882.89,974.59
+PROD-0100,Dyson Silencioso Forno,Dyson,Eletrodomésticos,637.46,785.16
+PROD-0101,FuturaSystems Digital Componente Rato,FuturaSystems,Periféricos,70.01,78.98
+PROD-0102,Apple Versátil Micro-ondas,Apple,Eletrodomésticos,873.36,1267.92
+PROD-0103,Xiaomi Ultra Dispositivo Disco Externo,Xiaomi,Armazenamento,72.76,79.64
+PROD-0104,Samsung Portátil Dispositivo Colunas,Samsung,Portáteis,1783.25,2566.44
+PROD-0105,Apple Novo Sensor,Apple,Segurança,568.1,751.15
+PROD-0106,InnovateX Sem Fios Rato,InnovateX,Periféricos,277.88,345.13
+PROD-0107,Microsoft Compacto Módulo Rato,Microsoft,Periféricos,376.46,418.6
+PROD-0108,ElectroZen Avançado Ferramenta Drone,ElectroZen,Smartphones,1171.94,1527.21
+PROD-0109,Xiaomi Avançado Impressora,Xiaomi,Impressoras,829.48,1084.26
+PROD-0110,Lenovo Multifunções Iluminação,Lenovo,Smart Home,625.86,825.42
+PROD-0111,ElectroZen Económico Disco Externo,ElectroZen,Armazenamento,49.85,61.11
+PROD-0112,Bosch Sem Fios Painel Monitor,Bosch,Periféricos,226.38,241.47
+PROD-0113,Sony Versátil Termostato,Sony,Smart Home,511.21,669.07
+PROD-0114,Lenovo Elegante Ferramenta Smartwatch,Lenovo,Wearables,700.66,883.11
+PROD-0115,Sony Novo Microfone,Sony,Periféricos,394.59,420.61
+PROD-0116,FuturaSystems Conectado Termostato,FuturaSystems,Smart Home,348.72,411.77
+PROD-0117,Microsoft Multifunções Unidade Sensor,Microsoft,Segurança,232.67,265.71
+PROD-0118,FuturaSystems Silencioso Kit Robô,FuturaSystems,Smart Home,651.1,829.06
+PROD-0119,TechCorp Potente Desktop,TechCorp,Desktops,541.36,644.25
+PROD-0120,Lenovo Sem Fios Kit Smartphone,Lenovo,Smartphones,367.98,424.27
+PROD-0121,Sony Versátil Drone,Sony,Smartphones,290.04,344.03
+PROD-0122,HP Eficiente Módulo Robô,HP,Smart Home,770.76,867.97
+PROD-0123,Samsung Conectado Unidade TV,Samsung,Áudio e Vídeo,314.11,339.56
+PROD-0124,Samsung Ergonómico Smartwatch,Samsung,Wearables,600.3,698.03
+PROD-0125,FuturaSystems Pequeno Dispositivo Colunas,FuturaSystems,Áudio e Vídeo,310.26,365.68
+PROD-0126,Xiaomi Versátil Smartwatch,Xiaomi,Wearables,84.55,105.33
+PROD-0127,Dyson Novo Microfone,Dyson,Periféricos,88.93,99.32
+PROD-0128,Canon Premium Segurança,Canon,Segurança,168.13,187.32
+PROD-0129,Logitech Inteligente Unidade Rato,Logitech,Periféricos,322.39,342.17
+PROD-0130,Samsung Sem Fios Projetor,Samsung,Periféricos,154.77,181.94
+PROD-0131,Logitech Ultra Auscultadores,Logitech,Áudio e Vídeo,216.19,228.16
+PROD-0132,Microsoft Versátil Sistema Webcam,Microsoft,Periféricos,274.33,295.94
+PROD-0133,Apple Silencioso Máquina Drone,Apple,Segurança,609.72,747.62
+PROD-0134,Lenovo Compacto Módulo Segurança,Lenovo,Segurança,149.36,195.39
+PROD-0135,HP Potente Smartphone,HP,Smartphones,348.48,440.29
+PROD-0136,ElectroZen Potente Aparelho Console,ElectroZen,Redes,86.09,100.4
+PROD-0137,Dell Portátil Dispositivo Teclado,Dell,Portáteis,360.86,496.12
+PROD-0138,Xiaomi Ultra Ferramenta Sensor,Xiaomi,Segurança,173.24,222.17
+PROD-0139,InnovateX Eficiente Ferramenta TV,InnovateX,Áudio e Vídeo,66.92,76.22
+PROD-0140,Microsoft Sem Fios Acessório Robô,Microsoft,Smart Home,420.0,522.0
+PROD-0141,TechCorp Pequeno Smartphone,TechCorp,Smartphones,643.57,758.9
+PROD-0142,Lenovo Eficiente Projetor,Lenovo,Periféricos,55.41,64.52
+PROD-0143,Razer Essencial Aspirador,Razer,Eletrodomésticos,775.1,973.51
+PROD-0144,Lenovo Digital TV,Lenovo,Áudio e Vídeo,239.9,274.68
+PROD-0145,Bosch Ergonómico Disco Externo,Bosch,Armazenamento,85.03,93.66
+PROD-0146,FuturaSystems Portátil Microfone,FuturaSystems,Portáteis,1490.81,1897.04
+PROD-0147,Sony Multifunções Kit Auscultadores,Sony,Áudio e Vídeo,276.87,319.45
+PROD-0148,Canon Ergonómico Acessório Forno,Canon,Eletrodomésticos,784.14,1040.27
+PROD-0149,Apple Compacto Tablet,Apple,Tvs,1513.86,2121.11
+PROD-0150,Bosch Novo Dispositivo Micro-ondas,Bosch,Eletrodomésticos,90.76,110.01

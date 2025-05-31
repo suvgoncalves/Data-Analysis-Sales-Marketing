@@ -3,117 +3,221 @@ import numpy as np
 from faker import Faker
 import random
 from datetime import datetime, timedelta
+import os
 
-# Inicializar o gerador de dados Faker (com localização para Português de Portugal)
+# Inicializar Faker para Português de Portugal
 fake = Faker('pt_PT')
 
-# --- Definição de Parâmetros ---
-NUM_VENDAS = 50000
-NUM_PRODUTOS = 500
-NUM_CLIENTES = 10000
-NUM_CAMPANHAS = 100
-DATA_INICIO_DADOS = datetime(2023, 1, 1)
-DATA_FIM_DADOS = datetime(2024, 12, 31)
+# --- Definições de Dados ---
+num_clientes = 500
+num_produtos = 150  # Aumentar para ter mais variedade de nomes únicos
+num_vendas = 10000
+num_campanhas = 50
 
-# --- 1. Gerar Dados de Produtos ---
-print("A gerar dados de produtos...")
-categorias = ['Smartphones', 'Portáteis', 'Tablets', 'Acessórios', 'Wearables', 'Gaming', 'TVs']
-marcas = ['Samsung', 'Apple', 'Xiaomi', 'HP', 'Dell', 'Lenovo', 'Sony', 'LG', 'JBL', 'Logitech', 'Nintendo', 'Microsoft']
+# --- Geração de Dados de Clientes ---
+clientes_data = []
+for i in range(1, num_clientes + 1):
+    clientes_data.append({
+        'ID_Cliente': f'CLI-{i:04d}',
+        'Nome_Cliente': fake.name(),
+        'Email': fake.email(),
+        'Localizacao': fake.city(),
+        'Segmento': random.choice(['Consumidor', 'Empresarial', 'Premium', 'Pequena Empresa'])
+    })
+df_clientes = pd.DataFrame(clientes_data)
 
+# --- Geração de Dados de Produtos ---
 produtos_data = []
-for i in range(NUM_PRODUTOS):
-    id_produto = f'PROD-{i+1:04d}'
-    nome_produto = fake.catch_phrase() + ' ' + random.choice(categorias) # Nome mais criativo
-    categoria = random.choice(categorias)
-    marca = random.choice(marcas)
-    preco_unitario = round(random.uniform(20, 2000), 2)
-    custo_unitario = round(preco_unitario * random.uniform(0.5, 0.8), 2) # Custo entre 50% e 80% do preço
-    produtos_data.append([id_produto, nome_produto, categoria, marca, preco_unitario, custo_unitario])
 
-df_produtos = pd.DataFrame(produtos_data, columns=[
-    'ID_Produto', 'Nome_Produto', 'Categoria', 'Marca', 'Preco_Unitario', 'Custo_Unitario'
-])
-df_produtos.to_csv('data/produtos.csv', index=False, encoding='utf-8')
-print(f"Ficheiro 'produtos.csv' criado com {len(df_produtos)} registos.")
+# Listas de palavras em português para nomes de produtos mais genéricos
+adjetivos = [
+    'Avançado', 'Básico', 'Compacto', 'Conectado', 'Digital', 'Económico',
+    'Eficiente', 'Elegante', 'Ergonómico', 'Essencial', 'Inteligente', 'Leve',
+    'Moderno', 'Multifunções', 'Novo', 'Pequeno', 'Portátil', 'Potente',
+    'Premium', 'Robusto', 'Sem Fios', 'Silencioso', 'Ultra', 'Versátil'
+]
+substantivos_base = [
+    'Sistema', 'Aparelho', 'Dispositivo', 'Unidade', 'Máquina', 'Ferramenta',
+    'Componente', 'Acessório', 'Central', 'Kit', 'Módulo', 'Painel'
+]
+tipos_genericos = [
+    'Portátil', 'Desktop', 'Tablet', 'Smartphone', 'Smartwatch', 'Console', 'Drone',
+    'TV', 'Monitor', 'Impressora', 'Projetor', 'Câmara', 'Auscultadores', 'Colunas',
+    'Teclado', 'Rato', 'Router', 'Webcam', 'Microfone', 'Disco Externo', 'Aspirador',
+    'Frigorífico', 'Máquina de Lavar', 'Forno', 'Micro-ondas', 'Máquina de Café',
+    'Segurança', 'Sensor', 'Iluminação', 'Termostato', 'Robô'
+]
 
-# --- 2. Gerar Dados de Campanhas de Marketing ---
-print("A gerar dados de campanhas de marketing...")
-canais_marketing = ['Google Ads', 'Facebook Ads', 'Email Marketing', 'Influencers', 'Parcerias']
-periodo_campanha_max = timedelta(days=90) # Campanhas duram no máximo 90 dias
+# Categorias de produtos
+categorias = [
+    'Eletrónica', 'Wearables', 'Smartphones', 'Portáteis', 'Periféricos',
+    'Eletrodomésticos', 'Áudio e Vídeo', 'Gaming', 'Segurança', 'Tvs', 'Impressoras',
+    'Redes', 'Armazenamento', 'Smart Home'
+]
 
-marketing_campanhas_data = []
-for i in range(NUM_CAMPANHAS):
-    id_campanha = f'CAMP-{i+1:03d}'
-    nome_campanha = fake.word().capitalize() + ' ' + fake.word().capitalize() + ' Campanha'
-    canal_marketing = random.choice(canais_marketing)
-    
-    data_inicio = DATA_INICIO_DADOS + timedelta(days=random.randint(0, (DATA_FIM_DADOS - DATA_INICIO_DADOS).days - periodo_campanha_max.days))
-    data_fim = data_inicio + timedelta(days=random.randint(7, periodo_campanha_max.days)) # Min 7 dias
-    
-    custo_campanha = round(random.uniform(500, 50000), 2)
-    
-    # Simular cliques e impressões proporcionalmente ao custo
-    impressoes = int(custo_campanha * random.uniform(50, 200))
-    cliques = int(impressoes * random.uniform(0.01, 0.05)) # CTR entre 1% e 5%
-    
-    # Vendas atribuídas: um pouco aleatório, mas com correlação com custo/cliques
-    # Vamos gerar vendas atribuidas que podem ser 0, para simular campanhas ineficazes
-    vendas_atribuidas = int(cliques * random.uniform(0.01, 0.1)) if random.random() < 0.9 else 0 # 1% a 10% de conversão do clique, 10% de chance de ser 0
-    
-    marketing_campanhas_data.append([
-        id_campanha, nome_campanha, canal_marketing, 
-        data_inicio.strftime('%Y-%m-%d'), data_fim.strftime('%Y-%m-%d'), 
-        custo_campanha, impressoes, cliques, vendas_atribuidas
-    ])
+# Marcas
+marcas = [
+    'TechCorp', 'InnovateX', 'GlobalTech', 'ElectroZen', 'FuturaSystems',
+    'HP', 'Dell', 'Lenovo', 'Samsung', 'LG', 'Sony', 'Apple', 'Xiaomi',
+    'Microsoft', 'Philips', 'Bosch', 'Canon', 'Dyson', 'Logitech', 'Razer'
+]
 
-df_marketing_campanhas = pd.DataFrame(marketing_campanhas_data, columns=[
-    'ID_Campanha', 'Nome_Campanha', 'Canal_Marketing', 'Data_Inicio', 'Data_Fim',
-    'Custo_Campanha', 'Impressoes', 'Cliques', 'Vendas_Atribuidas'
-])
-df_marketing_campanhas.to_csv('data/marketing_campanhas.csv', index=False, encoding='utf-8')
-print(f"Ficheiro 'marketing_campanhas.csv' criado com {len(df_marketing_campanhas)} registos.")
+# Para garantir nomes de produtos únicos
+nomes_produtos_gerados = set()
 
-# --- 3. Gerar Dados de Vendas ---
-print("A gerar dados de vendas...")
-canais_venda = ['Online', 'App Móvel', 'Loja Física']
-regioes_cliente = ['Lisboa', 'Porto', 'Coimbra', 'Braga', 'Faro', 'Aveiro', 'Setúbal']
+for i in range(1, num_produtos + 1):
+    nome_produto = ""
+    tentativas = 0
+    # Gera um nome de produto único por combinação aleatória
+    while nome_produto in nomes_produtos_gerados or not nome_produto:
+        # Tenta gerar nomes de produto mais variados em português
+        escolha_tipo = random.choice(tipos_genericos)
+        if random.random() < 0.6: # 60% chance de um nome mais composto
+            nome_produto = f"{random.choice(adjetivos)} {random.choice(substantivos_base)} {escolha_tipo}"
+        else: # 40% chance de um nome mais simples
+            nome_produto = f"{random.choice(adjetivos)} {escolha_tipo}"
 
+        # Adiciona o nome da marca para o tornar mais único e realista
+        marca_temp = random.choice(marcas)
+        nome_produto = f"{marca_temp} {nome_produto}"
+
+        nome_produto = nome_produto.replace('  ', ' ').strip() # Limpa espaços duplos
+        tentativas += 1
+        if tentativas > 2000: # Aumentar limite para gerar mais nomes únicos
+            print(f"Aviso: Não foi possível gerar um nome de produto único após {tentativas} tentativas. Considere aumentar as listas de palavras ou o num_produtos.")
+            break
+    nomes_produtos_gerados.add(nome_produto)
+    marca_produto = marca_temp # Usa a marca que foi usada para gerar o nome
+
+    # Lógica para garantir que a categoria do produto é consistente com o tipo de produto no nome
+    categoria_produto = None
+    if 'Portátil' in nome_produto or 'Desktop' in nome_produto:
+        categoria_produto = 'Portáteis' if 'Portátil' in nome_produto else 'Desktops'
+    elif 'Smartphone' in nome_produto:
+        categoria_produto = 'Smartphones'
+    elif 'Smartwatch' in nome_produto or 'Pulseira' in nome_produto:
+        categoria_produto = 'Wearables'
+    elif 'Impressora' in nome_produto:
+        categoria_produto = 'Impressoras'
+    elif 'Monitor' in nome_produto or 'TV' in nome_produto or 'Projetor' in nome_produto:
+        categoria_produto = 'Áudio e Vídeo' if 'TV' in nome_produto else 'Periféricos' # Monitor também pode ser Periféricos
+    elif 'Teclado' in nome_produto or 'Rato' in nome_produto or 'Webcam' in nome_produto or 'Microfone' in nome_produto:
+        categoria_produto = 'Periféricos'
+    elif 'Aspirador' in nome_produto or 'Frigorífico' in nome_produto or 'Máquina de Lavar' in nome_produto or 'Forno' in nome_produto or 'Micro-ondas' in nome_produto or 'Máquina de Café' in nome_produto:
+        categoria_produto = 'Eletrodomésticos'
+    elif 'Router' in nome_produto:
+        categoria_produto = 'Redes'
+    elif 'Disco Externo' in nome_produto or 'Armazenamento' in nome_produto:
+        categoria_produto = 'Armazenamento'
+    elif 'Câmara' in nome_produto or 'Segurança' in nome_produto or 'Sensor' in nome_produto:
+        categoria_produto = 'Segurança'
+    elif 'Auscultadores' in nome_produto or 'Colunas' in nome_produto:
+        categoria_produto = 'Áudio e Vídeo'
+    elif 'Robô' in nome_produto or 'Iluminação' in nome_produto or 'Termostato' in nome_produto:
+        categoria_produto = 'Smart Home'
+    else:
+        categoria_produto = random.choice(categorias) # Fallback para categoria aleatória
+
+    # Definir custo e preço unitário com base na categoria para ter alguma variação realista
+    if categoria_produto in ['Smartphones', 'Portáteis', 'Desktops', 'Tvs']:
+        custo_unitario = round(random.uniform(250, 1800), 2)
+        preco_unitario = round(custo_unitario * random.uniform(1.15, 1.45), 2)
+    elif categoria_produto in ['Wearables', 'Eletrodomésticos', 'Impressoras', 'Redes', 'Gaming', 'Segurança', 'Smart Home']:
+        custo_unitario = round(random.uniform(70, 900), 2)
+        preco_unitario = round(custo_unitario * random.uniform(1.10, 1.35), 2)
+    else: # Periféricos, Áudio e Vídeo, Armazenamento
+        custo_unitario = round(random.uniform(15, 400), 2)
+        preco_unitario = round(custo_unitario * random.uniform(1.05, 1.25), 2)
+
+    # Pequeno ajuste de preço para marcas premium como Apple
+    if marca_produto == 'Apple':
+        custo_unitario = round(custo_unitario * random.uniform(1.2, 1.5), 2) # custo base mais alto
+        preco_unitario = round(custo_unitario * random.uniform(1.20, 1.50), 2) # margem mais alta
+    # Pequeno ajuste para marcas mais económicas
+    elif marca_produto == 'Xiaomi' and categoria_produto == 'Smartphones':
+        custo_unitario = round(custo_unitario * random.uniform(0.7, 0.9), 2)
+        preco_unitario = round(custo_unitario * random.uniform(1.08, 1.25), 2)
+
+
+    produtos_data.append({
+        'ID_Produto': f'PROD-{i:04d}',
+        'Nome_Produto': nome_produto,
+        'Marca': marca_produto,
+        'Categoria': categoria_produto,
+        'Custo_Unitario': custo_unitario,
+        'Preco_Unitario': preco_unitario
+    })
+
+df_produtos = pd.DataFrame(produtos_data)
+# Garantir unicidade FINAL do Nome_Produto, embora a lógica acima já force bastante
+df_produtos.drop_duplicates(subset=['Nome_Produto'], keep='first', inplace=True)
+# Recriar IDs_Produto se houver duplicados removidos (para manter a sequência)
+df_produtos['ID_Produto'] = [f'PROD-{i:04d}' for i in range(1, len(df_produtos) + 1)]
+
+
+# --- Geração de Dados de Vendas ---
 vendas_data = []
-for i in range(NUM_VENDAS):
-    id_venda = f'VENDA-{i+1:05d}'
-    
-    # Data da venda dentro do período definido
-    data_venda = DATA_INICIO_DADOS + timedelta(days=random.randint(0, (DATA_FIM_DADOS - DATA_INICIO_DADOS).days))
-    
-    # Escolher um produto aleatório
-    produto_aleatorio = df_produtos.sample(1).iloc[0]
-    id_produto = produto_aleatorio['ID_Produto']
-    preco_unitario_venda = produto_aleatorio['Preco_Unitario'] # Usar o preço definido para o produto
-    
-    quantidade = random.randint(1, 5) # Vender entre 1 e 5 unidades
-    total_venda = round(quantidade * preco_unitario_venda, 2)
-    
-    id_cliente = f'CLI-{random.randint(1, NUM_CLIENTES):05d}'
-    canal_venda = random.choice(canais_venda)
-    regiao_cliente = random.choice(regioes_cliente)
-    
-    # Adicionar alguns dados ausentes (simular erros ou falhas na recolha)
-    if random.random() < 0.01: # 1% de chance de ter preço unitário ausente
-        preco_unitario_venda = np.nan
-    if random.random() < 0.005: # 0.5% de chance de ter região ausente
-        regiao_cliente = np.nan
-    
-    vendas_data.append([
-        id_venda, data_venda.strftime('%Y-%m-%d %H:%M:%S'), id_produto, quantidade,
-        preco_unitario_venda, total_venda, id_cliente, canal_venda, regiao_cliente
-    ])
+start_date = datetime(2023, 1, 1)
+end_date = datetime(2024, 12, 31)
 
-df_vendas = pd.DataFrame(vendas_data, columns=[
-    'ID_Venda', 'Data_Venda', 'ID_Produto', 'Quantidade', 'Preco_Unitario',
-    'Total_Venda', 'ID_Cliente', 'Canal_Venda', 'Regiao_Cliente'
-])
-df_vendas.to_csv('data/vendas.csv', index=False, encoding='utf-8')
-print(f"Ficheiro 'vendas.csv' criado com {len(df_vendas)} registos.")
+ids_cliente = df_clientes['ID_Cliente'].tolist()
+ids_produto = df_produtos['ID_Produto'].tolist()
 
-print("\nGeração de dados concluída com sucesso!")
-print("Os ficheiros foram guardados na pasta 'data/'.")
+for i in range(1, num_vendas + 1):
+    data_venda = fake.date_time_between(start_date=start_date, end_date=end_date)
+    id_cliente = random.choice(ids_cliente)
+    id_produto = random.choice(ids_produto)
+    quantidade = random.randint(1, 5)
+    canal_venda = random.choice(['Online', 'Loja Física', 'App Mobile', 'Marketplace'])
+
+    vendas_data.append({
+        'ID_Venda': f'VENDA-{i:05d}',
+        'Data_Venda': data_venda,
+        'ID_Cliente': id_cliente,
+        'ID_Produto': id_produto,
+        'Quantidade': quantidade,
+        'Canal_Venda': canal_venda
+    })
+df_vendas = pd.DataFrame(vendas_data)
+
+# --- Geração de Dados de Campanhas de Marketing ---
+campanhas_data = []
+canais_marketing = ['Redes Sociais', 'Email Marketing', 'Google Ads', 'SEO', 'Marketing de Conteúdo', 'Influencers', 'Outdoors']
+
+for i in range(1, num_campanhas + 1):
+    data_inicio = fake.date_time_between(start_date=start_date, end_date=end_date - timedelta(days=30))
+    data_fim = data_inicio + timedelta(days=random.randint(7, 60))
+    custo = round(random.uniform(500, 10000), 2)
+    impressoes = random.randint(10000, 1000000)
+    cliques = random.randint(impressoes // 100, impressoes // 10) # 1-10% CTR
+    conversoes = random.randint(cliques // 50, cliques // 10) # 2-10% CR
+    canal = random.choice(canais_marketing)
+
+    campanhas_data.append({
+        'ID_Campanha': f'CAMP-{i:03d}',
+        'Nome_Campanha': fake.sentence(nb_words=4),
+        'Canal': canal,
+        'Data_Inicio': data_inicio,
+        'Data_Fim': data_fim,
+        'Custo': custo,
+        'Impressoes': impressoes,
+        'Cliques': cliques,
+        'Conversoes': conversoes
+    })
+df_marketing_campanhas = pd.DataFrame(campanhas_data)
+
+
+# --- Salvar em CSV ---
+output_dir = 'data'
+os.makedirs(output_dir, exist_ok=True)
+
+df_clientes.to_csv(os.path.join(output_dir, 'clientes.csv'), index=False)
+df_produtos.to_csv(os.path.join(output_dir, 'produtos.csv'), index=False)
+df_vendas.to_csv(os.path.join(output_dir, 'vendas.csv'), index=False)
+df_marketing_campanhas.to_csv(os.path.join(output_dir, 'marketing_campanhas.csv'), index=False)
+
+print(f"Dados gerados e salvos em '{output_dir}/'")
+print("Clientes:", df_clientes.shape)
+print("Produtos:", df_produtos.shape)
+print("Vendas:", df_vendas.shape)
+print("Campanhas de Marketing:", df_marketing_campanhas.shape)
