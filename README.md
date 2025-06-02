@@ -1,5 +1,8 @@
 # Projeto de Análise de Dados: Vendas e Marketing
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/suvgoncalves/Data-Analysis-Sales-Marketing/main?urlpath=%2Fdoc%2Ftree%2Fanalise_vendas_marketing.ipynb)
+
+
 Este projeto demonstra uma análise completa de dados de vendas e campanhas de marketing, desde a geração de dados sintéticos até a extração de *insights* acionáveis e a formulação de recomendações de negócio.
 
 Visão Geral dos Resultados
