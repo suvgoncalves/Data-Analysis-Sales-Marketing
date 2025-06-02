@@ -2,6 +2,16 @@
 
 Este projeto demonstra uma análise completa de dados de vendas e campanhas de marketing, desde a geração de dados sintéticos até a extração de *insights* acionáveis e a formulação de recomendações de negócio.
 
+Visão Geral dos Resultados
+
+Vendas ao Longo do Tempo
+[Tendência de Vendas Mensais]![output](https://github.com/user-attachments/assets/47e8faa6-cc4e-483a-93e1-3b7048b13ce6)
+
+
+* **Insight:** Identificação clara de picos sazonais de vendas no final do ano.
+  
+
+
 ## Objetivos do Projeto
 
 * Gerar um conjunto de dados realistas para simular operações de vendas e marketing.
@@ -62,6 +72,14 @@ Este projeto demonstra uma análise completa de dados de vendas e campanhas de m
 ## Insights Chave
 
 * **Vendas:** Identificação de picos sazonais de vendas no final do ano (Novembro e Dezembro) e um crescimento constante ao longo do período. As categorias "Wearables" e "Smartphones" são os principais impulsionadores de receita. O canal "Online" é o mais forte, e "Lisboa" a região de maior contribuição.
+  ### Desempenho de Vendas por Categoria e Canal
+  [Vendas por Categoria de Produto]![output1](https://github.com/user-attachments/assets/c290bdc7-8c71-4986-b2c3-393d2df9590f)
+
+  * **Insight:** Categorias como "Wearables" e "Smartphones" dominam a receita total.
+[Vendas por Canal de Venda]![output2](https://github.com/user-attachments/assets/4d788688-2d6c-46d3-afc8-41a3fe1c9c5d)
+
+* **Insight:** O canal "Online" é o principal motor de vendas.
+
 * **Produtos:** Produtos como "Axiomatic digital printer" e "Intelligent security camera" são consistentemente os mais vendidos por quantidade.
 * **Marketing:** O "Email Marketing" apresenta um excelente ROI e um CAC baixo, sugerindo uma alocação de orçamento mais eficiente. "Redes Sociais" têm alto custo e alto volume de vendas atribuídas.
 
